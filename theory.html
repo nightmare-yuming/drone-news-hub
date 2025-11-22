@@ -1,0 +1,420 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="無人機理論與算法 - 常用理論與演算法詳解">
+    <title>理論算法 | Drone News Hub</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="theory-styles.css">
+</head>
+
+<body>
+    <!-- Header -->
+    <header class="header">
+        <nav class="nav-container">
+            <div class="logo">Drone News Hub</div>
+            <ul class="nav-links">
+                <li><a href="index.html#home">首頁</a></li>
+                <li><a href="index.html#news">新聞</a></li>
+                <li><a href="index.html#research">研究</a></li>
+                <li><a href="index.html#about">關於</a></li>
+            </ul>
+            <a href="theory.html" class="theory-btn active">📚 理論算法</a>
+        </nav>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="hero-content">
+            <h1>無人機理論與算法</h1>
+            <p>探索無人機技術背後的核心理論與演算法</p>
+        </div>
+    </section>
+
+    <!-- Main Content -->
+    <main class="container theory-page">
+        <div class="content-wrapper">
+            <!-- Sidebar Filters -->
+            <aside class="theory-sidebar">
+                <div class="theory-filter-group">
+                    <h3>📂 難度</h3>
+                    <div class="theory-filter-option">
+                        <input type="checkbox" id="diff-all" value="all" checked>
+                        <label for="diff-all">全部</label>
+                    </div>
+                    <div class="theory-filter-option">
+                        <input type="checkbox" id="diff-basic" value="basic">
+                        <label for="diff-basic">基礎</label>
+                    </div>
+                    <div class="theory-filter-option">
+                        <input type="checkbox" id="diff-intermediate" value="intermediate">
+                        <label for="diff-intermediate">中階</label>
+                    </div>
+                    <div class="theory-filter-option">
+                        <input type="checkbox" id="diff-advanced" value="advanced">
+                        <label for="diff-advanced">進階</label>
+                    </div>
+                </div>
+
+                <div class="theory-filter-group">
+                    <h3>🏷️ 類別</h3>
+                    <div class="theory-filter-option">
+                        <input type="checkbox" id="cat-all" value="all" checked>
+                        <label for="cat-all">全部</label>
+                    </div>
+                    <div class="theory-filter-option">
+                        <input type="checkbox" id="cat-control" value="control">
+                        <label for="cat-control">控制理論</label>
+                    </div>
+                    <div class="theory-filter-option">
+                        <input type="checkbox" id="cat-nav" value="navigation">
+                        <label for="cat-nav">導航定位</label>
+                    </div>
+                    <div class="theory-filter-option">
+                        <input type="checkbox" id="cat-path" value="path">
+                        <label for="cat-path">路徑規劃</label>
+                    </div>
+                    <div class="theory-filter-option">
+                        <input type="checkbox" id="cat-vision" value="vision">
+                        <label for="cat-vision">計算機視覺</label>
+                    </div>
+                    <div class="theory-filter-option">
+                        <input type="checkbox" id="cat-ml" value="ml">
+                        <label for="cat-ml">機器學習</label>
+                    </div>
+                </div>
+            </aside>
+
+            <!-- Theory Content -->
+            <div class="theory-content">
+                <!-- Control Theory Section -->
+                <section class="theory-section">
+                    <h2 class="theory-section-title">🎮 控制理論</h2>
+                    <div class="theory-grid">
+                        <div class="theory-card">
+                            <div class="theory-header">
+                                <h3>PID 控制</h3>
+                                <span class="difficulty-badge basic">基礎</span>
+                            </div>
+                            <p class="theory-desc">比例-積分-微分控制器,是無人機姿態控制的基礎算法。</p>
+                            <div class="theory-formula">
+                                <code>u(t) = Kp·e(t) + Ki·∫e(t)dt + Kd·de(t)/dt</code>
+                            </div>
+                            <ul class="theory-points">
+                                <li><strong>Kp (比例)</strong>: 快速響應誤差</li>
+                                <li><strong>Ki (積分)</strong>: 消除穩態誤差</li>
+                                <li><strong>Kd (微分)</strong>: 預測未來誤差,減少超調</li>
+                            </ul>
+                            <div class="theory-applications">
+                                <strong>應用:</strong> 姿態穩定、高度控制、速度控制
+                            </div>
+                        </div>
+
+                        <div class="theory-card">
+                            <div class="theory-header">
+                                <h3>LQR 控制</h3>
+                                <span class="difficulty-badge advanced">進階</span>
+                            </div>
+                            <p class="theory-desc">線性二次調節器,通過最小化成本函數實現最優控制。</p>
+                            <div class="theory-formula">
+                                <code>J = ∫(x<sup>T</sup>Qx + u<sup>T</sup>Ru)dt</code>
+                            </div>
+                            <ul class="theory-points">
+                                <li><strong>Q 矩陣</strong>: 狀態權重</li>
+                                <li><strong>R 矩陣</strong>: 控制輸入權重</li>
+                                <li><strong>K 增益</strong>: 最優反饋增益矩陣</li>
+                            </ul>
+                            <div class="theory-applications">
+                                <strong>應用:</strong> 軌跡跟蹤、多變量控制、最優飛行
+                            </div>
+                        </div>
+
+                        <div class="theory-card">
+                            <div class="theory-header">
+                                <h3>模型預測控制 (MPC)</h3>
+                                <span class="difficulty-badge advanced">進階</span>
+                            </div>
+                            <p class="theory-desc">基於模型預測未來狀態,並優化控制序列的先進控制方法。</p>
+                            <div class="theory-formula">
+                                <code>min Σ(||x<sub>k</sub>-x<sub>ref</sub>||<sup>2</sup> + ||u<sub>k</sub>||<sup>2</sup>)</code>
+                            </div>
+                            <ul class="theory-points">
+                                <li><strong>預測範圍</strong>: 未來 N 步預測</li>
+                                <li><strong>約束處理</strong>: 可處理輸入/狀態約束</li>
+                                <li><strong>滾動優化</strong>: 每步重新計算最優解</li>
+                            </ul>
+                            <div class="theory-applications">
+                                <strong>應用:</strong> 路徑規劃、避障、編隊飛行
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Navigation & Localization Section -->
+                <section class="theory-section">
+                    <h2 class="theory-section-title">🧭 導航與定位</h2>
+                    <div class="theory-grid">
+                        <div class="theory-card">
+                            <div class="theory-header">
+                                <h3>卡爾曼濾波</h3>
+                                <span class="difficulty-badge intermediate">中階</span>
+                            </div>
+                            <p class="theory-desc">最優線性濾波器,融合多個感測器數據進行狀態估計。</p>
+                            <div class="theory-formula">
+                                <code>x̂<sub>k</sub> = x̂<sub>k</sub><sup>-</sup> + K<sub>k</sub>(z<sub>k</sub> - Hx̂<sub>k</sub><sup>-</sup>)</code>
+                            </div>
+                            <ul class="theory-points">
+                                <li><strong>預測步驟</strong>: 基於系統模型預測狀態</li>
+                                <li><strong>更新步驟</strong>: 融合測量值修正預測</li>
+                                <li><strong>卡爾曼增益</strong>: 平衡預測與測量</li>
+                            </ul>
+                            <div class="theory-applications">
+                                <strong>應用:</strong> GPS/IMU 融合、狀態估計、感測器融合
+                            </div>
+                        </div>
+
+                        <div class="theory-card">
+                            <div class="theory-header">
+                                <h3>擴展卡爾曼濾波 (EKF)</h3>
+                                <span class="difficulty-badge advanced">進階</span>
+                            </div>
+                            <p class="theory-desc">卡爾曼濾波的非線性擴展,通過線性化處理非線性系統。</p>
+                            <div class="theory-formula">
+                                <code>F<sub>k</sub> = ∂f/∂x|<sub>x̂<sub>k-1</sub></sub></code>
+                            </div>
+                            <ul class="theory-points">
+                                <li><strong>雅可比矩陣</strong>: 非線性函數線性化</li>
+                                <li><strong>一階近似</strong>: 泰勒展開近似</li>
+                                <li><strong>適用範圍</strong>: 弱非線性系統</li>
+                            </ul>
+                            <div class="theory-applications">
+                                <strong>應用:</strong> SLAM、視覺慣性里程計、姿態估計
+                            </div>
+                        </div>
+
+                        <div class="theory-card">
+                            <div class="theory-header">
+                                <h3>粒子濾波</h3>
+                                <span class="difficulty-badge advanced">進階</span>
+                            </div>
+                            <p class="theory-desc">基於蒙特卡羅方法的非線性非高斯濾波器。</p>
+                            <div class="theory-formula">
+                                <code>p(x<sub>k</sub>|z<sub>1:k</sub>) ≈ Σw<sub>i</sub><sup>k</sup>δ(x<sub>k</sub>-x<sub>i</sub><sup>k</sup>)</code>
+                            </div>
+                            <ul class="theory-points">
+                                <li><strong>粒子表示</strong>: 用樣本近似分佈</li>
+                                <li><strong>重要性採樣</strong>: 根據權重重採樣</li>
+                                <li><strong>無線性假設</strong>: 適用任意非線性系統</li>
+                            </ul>
+                            <div class="theory-applications">
+                                <strong>應用:</strong> 全局定位、多目標追蹤、複雜環境導航
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Path Planning Section -->
+                <section class="theory-section">
+                    <h2 class="theory-section-title">🗺️ 路徑規劃</h2>
+                    <div class="theory-grid">
+                        <div class="theory-card">
+                            <div class="theory-header">
+                                <h3>A* 算法</h3>
+                                <span class="difficulty-badge intermediate">中階</span>
+                            </div>
+                            <p class="theory-desc">啟發式搜索算法,結合實際成本與估計成本尋找最優路徑。</p>
+                            <div class="theory-formula">
+                                <code>f(n) = g(n) + h(n)</code>
+                            </div>
+                            <ul class="theory-points">
+                                <li><strong>g(n)</strong>: 起點到當前節點的實際成本</li>
+                                <li><strong>h(n)</strong>: 當前節點到目標的啟發式估計</li>
+                                <li><strong>最優性</strong>: h(n) 可採納時保證最優解</li>
+                            </ul>
+                            <div class="theory-applications">
+                                <strong>應用:</strong> 網格地圖路徑規劃、全局路徑搜索
+                            </div>
+                        </div>
+
+                        <div class="theory-card">
+                            <div class="theory-header">
+                                <h3>RRT (快速探索隨機樹)</h3>
+                                <span class="difficulty-badge intermediate">中階</span>
+                            </div>
+                            <p class="theory-desc">基於採樣的路徑規劃算法,適用於高維空間和複雜約束。</p>
+                            <div class="theory-formula">
+                                <code>x<sub>new</sub> = x<sub>near</sub> + ε · (x<sub>rand</sub> - x<sub>near</sub>)/||x<sub>rand</sub> - x<sub>near</sub>||</code>
+                            </div>
+                            <ul class="theory-points">
+                                <li><strong>隨機採樣</strong>: 在配置空間隨機採樣</li>
+                                <li><strong>樹擴展</strong>: 向採樣點擴展樹結構</li>
+                                <li><strong>概率完備</strong>: 存在解時必能找到</li>
+                            </ul>
+                            <div class="theory-applications">
+                                <strong>應用:</strong> 動態環境規劃、高維空間搜索、運動規劃
+                            </div>
+                        </div>
+
+                        <div class="theory-card">
+                            <div class="theory-header">
+                                <h3>人工勢場法</h3>
+                                <span class="difficulty-badge basic">基礎</span>
+                            </div>
+                            <p class="theory-desc">將目標設為吸引力,障礙物設為排斥力,引導無人機運動。</p>
+                            <div class="theory-formula">
+                                <code>F = F<sub>att</sub> + F<sub>rep</sub></code>
+                            </div>
+                            <ul class="theory-points">
+                                <li><strong>吸引勢場</strong>: 目標點產生吸引力</li>
+                                <li><strong>排斥勢場</strong>: 障礙物產生排斥力</li>
+                                <li><strong>局部最小值</strong>: 可能陷入局部最優</li>
+                            </ul>
+                            <div class="theory-applications">
+                                <strong>應用:</strong> 實時避障、局部路徑規劃、編隊控制
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Computer Vision Section -->
+                <section class="theory-section">
+                    <h2 class="theory-section-title">👁️ 計算機視覺</h2>
+                    <div class="theory-grid">
+                        <div class="theory-card">
+                            <div class="theory-header">
+                                <h3>視覺 SLAM</h3>
+                                <span class="difficulty-badge advanced">進階</span>
+                            </div>
+                            <p class="theory-desc">同步定位與地圖構建,使用視覺感測器實現自主導航。</p>
+                            <div class="theory-formula">
+                                <code>p(x<sub>0:t</sub>, m | z<sub>0:t</sub>, u<sub>0:t</sub>)</code>
+                            </div>
+                            <ul class="theory-points">
+                                <li><strong>前端</strong>: 特徵提取與匹配 (ORB-SLAM)</li>
+                                <li><strong>後端</strong>: 位姿優化與迴環檢測</li>
+                                <li><strong>地圖表示</strong>: 稀疏/稠密點雲地圖</li>
+                            </ul>
+                            <div class="theory-applications">
+                                <strong>應用:</strong> 室內導航、GPS 拒止環境、3D 重建
+                            </div>
+                        </div>
+
+                        <div class="theory-card">
+                            <div class="theory-header">
+                                <h3>光流法</h3>
+                                <span class="difficulty-badge intermediate">中階</span>
+                            </div>
+                            <p class="theory-desc">通過分析連續影像中像素的運動估計相機或物體的運動。</p>
+                            <div class="theory-formula">
+                                <code>I(x,y,t) = I(x+dx, y+dy, t+dt)</code>
+                            </div>
+                            <ul class="theory-points">
+                                <li><strong>Lucas-Kanade</strong>: 稀疏光流法</li>
+                                <li><strong>Horn-Schunck</strong>: 稠密光流法</li>
+                                <li><strong>亮度恆定假設</strong>: 像素亮度不變</li>
+                            </ul>
+                            <div class="theory-applications">
+                                <strong>應用:</strong> 視覺里程計、目標追蹤、避障
+                            </div>
+                        </div>
+
+                        <div class="theory-card">
+                            <div class="theory-header">
+                                <h3>深度學習檢測</h3>
+                                <span class="difficulty-badge advanced">進階</span>
+                            </div>
+                            <p class="theory-desc">使用卷積神經網絡進行目標檢測與識別。</p>
+                            <div class="theory-formula">
+                                <code>y = σ(W * x + b)</code>
+                            </div>
+                            <ul class="theory-points">
+                                <li><strong>YOLO</strong>: 實時單階段檢測器</li>
+                                <li><strong>Faster R-CNN</strong>: 兩階段高精度檢測</li>
+                                <li><strong>語義分割</strong>: 像素級場景理解</li>
+                            </ul>
+                            <div class="theory-applications">
+                                <strong>應用:</strong> 目標識別、場景理解、自主降落
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Machine Learning Section -->
+                <section class="theory-section">
+                    <h2 class="theory-section-title">🤖 機器學習與優化</h2>
+                    <div class="theory-grid">
+                        <div class="theory-card">
+                            <div class="theory-header">
+                                <h3>強化學習</h3>
+                                <span class="difficulty-badge advanced">進階</span>
+                            </div>
+                            <p class="theory-desc">通過與環境互動學習最優策略的機器學習方法。</p>
+                            <div class="theory-formula">
+                                <code>Q(s,a) ← Q(s,a) + α[r + γ max Q(s',a') - Q(s,a)]</code>
+                            </div>
+                            <ul class="theory-points">
+                                <li><strong>Q-Learning</strong>: 值函數學習</li>
+                                <li><strong>Policy Gradient</strong>: 策略梯度方法</li>
+                                <li><strong>PPO/SAC</strong>: 現代深度強化學習</li>
+                            </ul>
+                            <div class="theory-applications">
+                                <strong>應用:</strong> 自主飛行、敏捷機動、任務規劃
+                            </div>
+                        </div>
+
+                        <div class="theory-card">
+                            <div class="theory-header">
+                                <h3>群體智能優化</h3>
+                                <span class="difficulty-badge intermediate">中階</span>
+                            </div>
+                            <p class="theory-desc">模擬自然界群體行為的優化算法。</p>
+                            <div class="theory-formula">
+                                <code>v<sub>i</sub> = w·v<sub>i</sub> + c<sub>1</sub>r<sub>1</sub>(p<sub>i</sub>-x<sub>i</sub>) + c<sub>2</sub>r<sub>2</sub>(g-x<sub>i</sub>)</code>
+                            </div>
+                            <ul class="theory-points">
+                                <li><strong>PSO</strong>: 粒子群優化</li>
+                                <li><strong>ACO</strong>: 蟻群算法</li>
+                                <li><strong>GA</strong>: 遺傳算法</li>
+                            </ul>
+                            <div class="theory-applications">
+                                <strong>應用:</strong> 參數調優、路徑優化、任務分配
+                            </div>
+                        </div>
+
+                        <div class="theory-card">
+                            <div class="theory-header">
+                                <h3>凸優化</h3>
+                                <span class="difficulty-badge advanced">進階</span>
+                            </div>
+                            <p class="theory-desc">求解凸目標函數在凸集上的最優化問題。</p>
+                            <div class="theory-formula">
+                                <code>minimize f(x) subject to g<sub>i</sub>(x) ≤ 0</code>
+                            </div>
+                            <ul class="theory-points">
+                                <li><strong>二次規劃</strong>: QP 問題求解</li>
+                                <li><strong>半定規劃</strong>: SDP 優化</li>
+                                <li><strong>內點法</strong>: 高效求解器</li>
+                            </ul>
+                            <div class="theory-applications">
+                                <strong>應用:</strong> 軌跡優化、控制器設計、資源分配
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="footer-content">
+            <p>&copy; 2025 Drone News Hub. 致力於提供最新的無人機資訊與研究。</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

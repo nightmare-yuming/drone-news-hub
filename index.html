@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="無人機新聞研究中心 - 每日最新無人機報導與研究">
+    <title>Drone News Hub | 無人機新聞研究中心</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <!-- Header -->
+    <header class="header">
+        <nav class="nav-container">
+            <div class="logo">Drone News Hub</div>
+            <ul class="nav-links">
+                <li><a href="#home">首頁</a></li>
+                <li><a href="#news">新聞</a></li>
+                <li><a href="#research">研究</a></li>
+                <li><a href="#about">關於</a></li>
+            </ul>
+            <a href="theory.html" class="theory-btn">📚 理論算法</a>
+        </nav>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero" id="home">
+        <div class="hero-content">
+            <h1>無人機新聞研究中心</h1>
+            <p>探索每日最新的無人機技術、研究與產業動態</p>
+
+            <!-- Search Bar -->
+            <div class="search-container">
+                <div class="search-bar">
+                    <input type="text" id="searchInput" placeholder="搜尋新聞、研究或關鍵字..." autocomplete="off">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Main Content -->
+    <main class="container" id="news">
+        <div class="content-wrapper">
+            <!-- Sidebar Filters -->
+            <aside class="sidebar">
+                <!-- Category Filter -->
+                <div class="filter-section">
+                    <h3>📂 分類</h3>
+                    <div class="filter-options" id="categoryFilters">
+                        <div class="filter-option">
+                            <input type="checkbox" id="cat-all" value="all" checked>
+                            <label for="cat-all">全部</label>
+                        </div>
+                        <div class="filter-option">
+                            <input type="checkbox" id="cat-technology" value="technology">
+                            <label for="cat-technology">技術</label>
+                        </div>
+                        <div class="filter-option">
+                            <input type="checkbox" id="cat-military" value="military">
+                            <label for="cat-military">軍事</label>
+                        </div>
+                        <div class="filter-option">
+                            <input type="checkbox" id="cat-commercial" value="commercial">
+                            <label for="cat-commercial">商業</label>
+                        </div>
+                        <div class="filter-option">
+                            <input type="checkbox" id="cat-research" value="research">
+                            <label for="cat-research">研究</label>
+                        </div>
+                        <div class="filter-option">
+                            <input type="checkbox" id="cat-regulation" value="regulation">
+                            <label for="cat-regulation">法規</label>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Source Filter -->
+                <div class="filter-section">
+                    <h3>📰 來源</h3>
+                    <div class="filter-options" id="sourceFilters">
+                        <div class="filter-option">
+                            <input type="checkbox" id="src-all" value="all" checked>
+                            <label for="src-all">全部</label>
+                        </div>
+                        <div class="filter-option">
+                            <input type="checkbox" id="src-cna" value="中央社">
+                            <label for="src-cna">中央社</label>
+                        </div>
+                        <div class="filter-option">
+                            <input type="checkbox" id="src-udn" value="經濟日報">
+                            <label for="src-udn">經濟日報</label>
+                        </div>
+                        <div class="filter-option">
+                            <input type="checkbox" id="src-technews" value="科技新報">
+                            <label for="src-technews">科技新報</label>
+                        </div>
+                        <div class="filter-option">
+                            <input type="checkbox" id="src-agri" value="農傳媒">
+                            <label for="src-agri">農傳媒</label>
+                        </div>
+                        <div class="filter-option">
+                            <input type="checkbox" id="src-nature" value="Nature">
+                            <label for="src-nature">Nature</label>
+                        </div>
+                        <div class="filter-option">
+                            <input type="checkbox" id="src-science" value="Science Robotics">
+                            <label for="src-science">Science Robotics</label>
+                        </div>
+                        <div class="filter-option">
+                            <input type="checkbox" id="src-ieee" value="IEEE Spectrum">
+                            <label for="src-ieee">IEEE Spectrum</label>
+                        </div>
+                        <div class="filter-option">
+                            <input type="checkbox" id="src-mit" value="MIT Technology Review">
+                            <label for="src-mit">MIT Tech Review</label>
+                        </div>
+                        <div class="filter-option">
+                            <input type="checkbox" id="src-dronelife" value="DroneLife">
+                            <label for="src-dronelife">DroneLife</label>
+                        </div>
+                    </div>
+                </div>
+            </aside>
+
+            <!-- News Grid -->
+            <div class="news-grid" id="newsGrid">
+                <!-- News cards will be dynamically inserted here -->
+            </div>
+        </div>
+    </main>
+
+    <!-- Research Section -->
+    <section class="info-section" id="research">
+        <div class="container">
+            <h2 class="section-title">🔬 研究資源</h2>
+            <div class="info-grid">
+                <div class="info-card">
+                    <div class="info-icon">📚</div>
+                    <h3>學術期刊</h3>
+                    <p>追蹤頂尖學術期刊的最新無人機研究論文,包括 Nature、Science Robotics、IEEE 等國際知名期刊。</p>
+                </div>
+                <div class="info-card">
+                    <div class="info-icon">🧪</div>
+                    <h3>技術突破</h3>
+                    <p>關注人工智慧、自主導航、群體智能等前沿技術在無人機領域的創新應用與突破。</p>
+                </div>
+                <div class="info-card">
+                    <div class="info-icon">🎓</div>
+                    <h3>研究機構</h3>
+                    <p>匯集全球頂尖大學與研究機構的無人機研究項目,了解最新的研發動態與成果。</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section class="info-section" id="about">
+        <div class="container">
+            <h2 class="section-title">ℹ️ 關於我們</h2>
+            <div class="about-content">
+                <div class="about-card">
+                    <h3>我們的使命</h3>
+                    <p>Drone News Hub 致力於成為華語地區最專業的無人機資訊平台,提供即時、準確、全面的無人機新聞與研究資訊。</p>
+                </div>
+                <div class="about-card">
+                    <h3>內容來源</h3>
+                    <p>我們的內容來自全球頂尖的科技期刊、研究機構、產業媒體,確保資訊的權威性與可靠性。主要來源包括:</p>
+                    <ul>
+                        <li>台灣: 中央社、經濟日報、科技新報、農傳媒</li>
+                        <li>國際學術: Nature、Science Robotics、IEEE Spectrum</li>
+                        <li>科技媒體: MIT Technology Review、DroneLife</li>
+                    </ul>
+                </div>
+                <div class="about-card">
+                    <h3>涵蓋領域</h3>
+                    <p>我們關注無人機技術的各個面向,包括技術創新、軍事應用、商業發展、學術研究、政策法規等,為讀者提供全方位的資訊視野。</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="footer-content">
+            <p>&copy; 2025 Drone News Hub. 致力於提供最新的無人機資訊與研究。</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
