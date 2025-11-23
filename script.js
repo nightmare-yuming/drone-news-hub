@@ -3,7 +3,7 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2025-11-22 05:25:13 UTC
+// Last updated: 2025-11-23 00:50:03 UTC
 const newsData = [
     {
         id: 1,
@@ -52,39 +52,39 @@ const newsData = [
     },
     {
         id: 6,
-        title: "Your weekly selection of awesome robot videos",
-        excerpt: "Your weekly selection of awesome robot videos...",
+        title: "Zero Zero Robotics’ founder on riding the startup rollercoaster for a decade",
+        excerpt: "Zero Zero Robotics’ founder on riding the startup rollercoaster for a decade...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2025-11-22",
-        url: "https://spectrum.ieee.org/video-friday-heavy-lift-drones"
+        date: "2025-11-23",
+        url: "https://spectrum.ieee.org/hoverair-x1"
     },
     {
         id: 7,
-        title: "Drones, autonomy, software, and communications lead the roster",
-        excerpt: "Drones, autonomy, software, and communications lead the roster...",
+        title: "Hitchhiker latches on using trajectory tracking and suction cups",
+        excerpt: "Hitchhiker latches on using trajectory tracking and suction cups...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2025-11-22",
-        url: "https://spectrum.ieee.org/ukraine-weapons"
+        date: "2025-11-23",
+        url: "https://spectrum.ieee.org/drone-landing-2659913493"
     },
     {
         id: 8,
-        title: "Your weekly selection of awesome robot videos",
-        excerpt: "Your weekly selection of awesome robot videos...",
+        title: "An electric hydrofoiling bicycle, consumer lidar, and an air conditioner that uses water instead of coolant caught my attention at CES 2020",
+        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2025-11-22",
-        url: "https://spectrum.ieee.org/video-friday-multimode-drone"
+        date: "2025-11-23",
+        url: "https://spectrum.ieee.org/ces-2020-the-bestand-wildestgadgets-of-the-show"
     },
     {
         id: 9,
-        title: "Your weekly selection of awesome robot videos",
-        excerpt: "Your weekly selection of awesome robot videos...",
+        title: "How UAVs benefit consumers through faster estimates, quicker response times and faster delivery of benefits",
+        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2025-11-22",
-        url: "https://spectrum.ieee.org/video-friday-human-size-robot"
+        date: "2025-11-23",
+        url: "https://spectrum.ieee.org/changing-the-landscape-of-the-insurance-market"
     }
 ];
 
