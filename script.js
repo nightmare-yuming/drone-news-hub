@@ -3,7 +3,7 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2025-11-28 00:41:20 UTC
+// Last updated: 2025-11-29 00:41:14 UTC
 const newsData = [
     {
         id: 1,
@@ -56,7 +56,7 @@ const newsData = [
         excerpt: "Your weekly selection of awesome robot videos...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2025-11-28",
+        date: "2025-11-29",
         url: "https://spectrum.ieee.org/video-friday-heavy-lift-drones"
     },
     {
@@ -65,7 +65,7 @@ const newsData = [
         excerpt: "Drones, autonomy, software, and communications lead the roster...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2025-11-28",
+        date: "2025-11-29",
         url: "https://spectrum.ieee.org/ukraine-weapons"
     },
     {
@@ -74,7 +74,7 @@ const newsData = [
         excerpt: "Your weekly selection of awesome robot videos...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2025-11-28",
+        date: "2025-11-29",
         url: "https://spectrum.ieee.org/video-friday-multimode-drone"
     },
     {
@@ -83,7 +83,7 @@ const newsData = [
         excerpt: "Your weekly selection of awesome robot videos...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2025-11-28",
+        date: "2025-11-29",
         url: "https://spectrum.ieee.org/video-friday-human-size-robot"
     }
 ];
