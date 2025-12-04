@@ -3,10 +3,19 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2025-12-03 00:43:20 UTC
+// Last updated: 2025-12-04 00:43:37 UTC
 const newsData = [
     {
         id: 1,
+        title: "MIT engineers design an aerial microrobot that can fly as fast as a bumblebee",
+        excerpt: "With insect-like speed and agility, the tiny robot could someday aid in search-and-rescue missions.",
+        category: "technology",
+        source: "MIT Technology Review",
+        date: "2025-12-03",
+        url: "https://news.mit.edu/2025/mit-engineers-design-aerial-microrobot-fly-like-bumblebee-1203"
+    },
+    {
+        id: 2,
         title: "How drones are altering contemporary warfare",
         excerpt: "A new book by scholar and military officer Erik Lin-Greenberg examines the evolving dynamics of military and state action centered around drones.",
         category: "military",
@@ -15,7 +24,7 @@ const newsData = [
         url: "https://news.mit.edu/2025/how-drones-are-altering-contemporary-warfare-erik-lin-greenberg-book-1113"
     },
     {
-        id: 2,
+        id: 3,
         title: "Accounting for uncertainty to help engineers design complex systems",
         excerpt: "The approach could enable autonomous vehicles, commercial aircraft, or transportation networks that are more reliable in the face of real-world unpredictability.",
         category: "technology",
@@ -24,7 +33,7 @@ const newsData = [
         url: "https://news.mit.edu/2025/accounting-uncertainty-help-engineers-design-complex-systems-1002"
     },
     {
-        id: 3,
+        id: 4,
         title: "Lidar helps gas industry find methane leaks and avoid costly losses",
         excerpt: "Lincoln Laboratory transitioned its optical-amplifier technology to Bridger Photonics for commercialization, enhancing US energy security and efficiency.",
         category: "technology",
@@ -33,7 +42,7 @@ const newsData = [
         url: "https://news.mit.edu/2025/lidar-helps-gas-industry-find-methane-leaks-avoid-costly-losses-0912"
     },
     {
-        id: 4,
+        id: 5,
         title: "MIx helps innovators tackle challenges in national security",
         excerpt: "Mission Innovation x creates education and research opportunities while facilitating connections between defense agencies and MIT innovators.",
         category: "military",
@@ -42,40 +51,31 @@ const newsData = [
         url: "https://news.mit.edu/2025/mix-helps-innovators-tackle-challenges-national-security-0624"
     },
     {
-        id: 5,
-        title: "AI-enabled control system helps autonomous drones stay on target in uncertain environments",
-        excerpt: "The system automatically learns to adapt to unknown disturbances such as gusting winds.",
+        id: 6,
+        title: "More connected devices than ever will strain 6G with a surge of uplinks",
+        excerpt: "More connected devices than ever will strain 6G with a surge of uplinks...",
         category: "technology",
-        source: "MIT Technology Review",
-        date: "2025-06-09",
-        url: "https://news.mit.edu/2025/ai-enabled-control-system-helps-autonomous-drones-uncertain-environments-0609"
+        source: "IEEE Spectrum",
+        date: "2025-12-04",
+        url: "https://spectrum.ieee.org/6g-network-infrastructure-bell-labs"
     },
     {
-        id: 6,
+        id: 7,
         title: "Your weekly selection of awesome robot videos",
         excerpt: "Your weekly selection of awesome robot videos...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2025-12-03",
+        date: "2025-12-04",
         url: "https://spectrum.ieee.org/video-friday-heavy-lift-drones"
     },
     {
-        id: 7,
+        id: 8,
         title: "Drones, autonomy, software, and communications lead the roster",
         excerpt: "Drones, autonomy, software, and communications lead the roster...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2025-12-03",
+        date: "2025-12-04",
         url: "https://spectrum.ieee.org/ukraine-weapons"
-    },
-    {
-        id: 8,
-        title: "Your weekly selection of awesome robot videos",
-        excerpt: "Your weekly selection of awesome robot videos...",
-        category: "technology",
-        source: "IEEE Spectrum",
-        date: "2025-12-03",
-        url: "https://spectrum.ieee.org/video-friday-multimode-drone"
     },
     {
         id: 9,
@@ -83,8 +83,8 @@ const newsData = [
         excerpt: "Your weekly selection of awesome robot videos...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2025-12-03",
-        url: "https://spectrum.ieee.org/video-friday-human-size-robot"
+        date: "2025-12-04",
+        url: "https://spectrum.ieee.org/video-friday-multimode-drone"
     }
 ];
 
