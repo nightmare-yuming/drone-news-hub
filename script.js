@@ -3,7 +3,7 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2025-12-06 00:42:01 UTC
+// Last updated: 2025-12-07 00:49:44 UTC
 const newsData = [
     {
         id: 1,
@@ -52,30 +52,30 @@ const newsData = [
     },
     {
         id: 6,
-        title: "More connected devices than ever will strain 6G with a surge of uplinks",
-        excerpt: "More connected devices than ever will strain 6G with a surge of uplinks...",
-        category: "technology",
-        source: "IEEE Spectrum",
-        date: "2025-12-06",
-        url: "https://spectrum.ieee.org/6g-network-infrastructure-bell-labs"
-    },
-    {
-        id: 7,
         title: "Your weekly selection of awesome robot videos",
         excerpt: "Your weekly selection of awesome robot videos...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2025-12-06",
+        date: "2025-12-07",
         url: "https://spectrum.ieee.org/video-friday-heavy-lift-drones"
     },
     {
-        id: 8,
+        id: 7,
         title: "Drones, autonomy, software, and communications lead the roster",
         excerpt: "Drones, autonomy, software, and communications lead the roster...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2025-12-06",
+        date: "2025-12-07",
         url: "https://spectrum.ieee.org/ukraine-weapons"
+    },
+    {
+        id: 8,
+        title: "Your weekly selection of awesome robot videos",
+        excerpt: "Your weekly selection of awesome robot videos...",
+        category: "technology",
+        source: "IEEE Spectrum",
+        date: "2025-12-07",
+        url: "https://spectrum.ieee.org/video-friday-multimode-drone"
     },
     {
         id: 9,
@@ -83,8 +83,8 @@ const newsData = [
         excerpt: "Your weekly selection of awesome robot videos...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2025-12-06",
-        url: "https://spectrum.ieee.org/video-friday-multimode-drone"
+        date: "2025-12-07",
+        url: "https://spectrum.ieee.org/video-friday-human-size-robot"
     }
 ];
 
