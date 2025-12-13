@@ -3,43 +3,43 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2025-12-12 00:45:08 UTC
+// Last updated: 2025-12-13 00:42:17 UTC
 const newsData = [
     {
         id: 1,
-        title: "More connected devices than ever will strain 6G with a surge of uplinks",
-        excerpt: "More connected devices than ever will strain 6G with a surge of uplinks...",
+        title: "As Ukraine’s energy infrastructure gets pummeled, the nation’s allies have yet to answer desperate calls for support",
+        excerpt: "As Ukraine’s energy infrastructure gets pummeled, the nation’s allies have yet to answer desperate calls for support...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2025-12-12",
-        url: "https://spectrum.ieee.org/6g-network-infrastructure-bell-labs"
+        date: "2025-12-13",
+        url: "https://spectrum.ieee.org/russia-targets-ukraine-grid"
     },
     {
         id: 2,
-        title: "Your weekly selection of awesome robot videos",
-        excerpt: "Your weekly selection of awesome robot videos...",
+        title: "Smart image analysis algorithms, fed by cameras carried by drones and ground vehicles, can help power companies prevent forest fires",
+        excerpt: "Smart image analysis algorithms, fed by cameras carried by drones and ground vehicles, can help power companies prevent forest fires...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2025-12-12",
-        url: "https://spectrum.ieee.org/video-friday-heavy-lift-drones"
+        date: "2025-12-13",
+        url: "https://spectrum.ieee.org/smokey-the-ai"
     },
     {
         id: 3,
-        title: "Drones, autonomy, software, and communications lead the roster",
-        excerpt: "Drones, autonomy, software, and communications lead the roster...",
+        title: "A zinc-air battery made partly of Kevlar can be used to support weight, not just add to it",
+        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2025-12-12",
-        url: "https://spectrum.ieee.org/ukraine-weapons"
+        date: "2025-12-13",
+        url: "https://spectrum.ieee.org/a-structural-battery-that-makes-up-the-machine-that-it-powers"
     },
     {
         id: 4,
-        title: "Your weekly selection of awesome robot videos",
-        excerpt: "Your weekly selection of awesome robot videos...",
+        title: "The flyers are just one of several airborne wind energy technologies that could shape the future of wind power",
+        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2025-12-12",
-        url: "https://spectrum.ieee.org/video-friday-multimode-drone"
+        date: "2025-12-13",
+        url: "https://spectrum.ieee.org/alphabets-makani-tests-wind-energy-kites-in-the-north-sea"
     }
 ];
 
