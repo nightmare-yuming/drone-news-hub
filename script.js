@@ -3,43 +3,43 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2025-12-15 00:47:53 UTC
+// Last updated: 2025-12-16 00:45:15 UTC
 const newsData = [
     {
         id: 1,
-        title: "As Ukraine’s energy infrastructure gets pummeled, the nation’s allies have yet to answer desperate calls for support",
-        excerpt: "As Ukraine’s energy infrastructure gets pummeled, the nation’s allies have yet to answer desperate calls for support...",
+        title: "A new 16,384-pixel lidar chip could find use in autonomous vehicles, drones, and robots",
+        excerpt: "A new 16,384-pixel lidar chip could find use in autonomous vehicles, drones, and robots...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2025-12-15",
-        url: "https://spectrum.ieee.org/russia-targets-ukraine-grid"
+        date: "2025-12-16",
+        url: "https://spectrum.ieee.org/solid-state-lidar"
     },
     {
         id: 2,
-        title: "Smart image analysis algorithms, fed by cameras carried by drones and ground vehicles, can help power companies prevent forest fires",
-        excerpt: "Smart image analysis algorithms, fed by cameras carried by drones and ground vehicles, can help power companies prevent forest fires...",
+        title: "Simulations suggest that the approach can achieve early wildfire detection with 99 percent accuracy",
+        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2025-12-15",
-        url: "https://spectrum.ieee.org/smokey-the-ai"
+        date: "2025-12-16",
+        url: "https://spectrum.ieee.org/drones-sensors-wildfire-detection"
     },
     {
         id: 3,
-        title: "A zinc-air battery made partly of Kevlar can be used to support weight, not just add to it",
+        title: "Drones or airplanes might be able to quickly map seafloors and inspect shipwrecks using the photoacoustic method",
         excerpt: "Latest developments in drone technology from IEEE Spectrum.",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2025-12-15",
-        url: "https://spectrum.ieee.org/a-structural-battery-that-makes-up-the-machine-that-it-powers"
+        date: "2025-12-16",
+        url: "https://spectrum.ieee.org/lightdriven-sonar-could-survey-the-oceans-from-the-air"
     },
     {
         id: 4,
-        title: "The flyers are just one of several airborne wind energy technologies that could shape the future of wind power",
+        title: "A new approach allows unmanned aerial vehicles to deliver power wirelessly to remote sensors",
         excerpt: "Latest developments in drone technology from IEEE Spectrum.",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2025-12-15",
-        url: "https://spectrum.ieee.org/alphabets-makani-tests-wind-energy-kites-in-the-north-sea"
+        date: "2025-12-16",
+        url: "https://spectrum.ieee.org/uavs-prove-usefuldelivering-remote-power-charging-services"
     }
 ];
 
