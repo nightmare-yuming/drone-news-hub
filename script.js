@@ -3,43 +3,43 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2025-12-16 00:45:15 UTC
+// Last updated: 2025-12-17 00:42:19 UTC
 const newsData = [
     {
         id: 1,
-        title: "A new 16,384-pixel lidar chip could find use in autonomous vehicles, drones, and robots",
-        excerpt: "A new 16,384-pixel lidar chip could find use in autonomous vehicles, drones, and robots...",
+        title: "More connected devices than ever will strain 6G with a surge of uplinks",
+        excerpt: "More connected devices than ever will strain 6G with a surge of uplinks...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2025-12-16",
-        url: "https://spectrum.ieee.org/solid-state-lidar"
+        date: "2025-12-17",
+        url: "https://spectrum.ieee.org/6g-network-infrastructure-bell-labs"
     },
     {
         id: 2,
-        title: "Simulations suggest that the approach can achieve early wildfire detection with 99 percent accuracy",
-        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
+        title: "Your weekly selection of awesome robot videos",
+        excerpt: "Your weekly selection of awesome robot videos...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2025-12-16",
-        url: "https://spectrum.ieee.org/drones-sensors-wildfire-detection"
+        date: "2025-12-17",
+        url: "https://spectrum.ieee.org/video-friday-heavy-lift-drones"
     },
     {
         id: 3,
-        title: "Drones or airplanes might be able to quickly map seafloors and inspect shipwrecks using the photoacoustic method",
-        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
+        title: "Drones, autonomy, software, and communications lead the roster",
+        excerpt: "Drones, autonomy, software, and communications lead the roster...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2025-12-16",
-        url: "https://spectrum.ieee.org/lightdriven-sonar-could-survey-the-oceans-from-the-air"
+        date: "2025-12-17",
+        url: "https://spectrum.ieee.org/ukraine-weapons"
     },
     {
         id: 4,
-        title: "A new approach allows unmanned aerial vehicles to deliver power wirelessly to remote sensors",
-        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
+        title: "Your weekly selection of awesome robot videos",
+        excerpt: "Your weekly selection of awesome robot videos...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2025-12-16",
-        url: "https://spectrum.ieee.org/uavs-prove-usefuldelivering-remote-power-charging-services"
+        date: "2025-12-17",
+        url: "https://spectrum.ieee.org/video-friday-multimode-drone"
     }
 ];
 
