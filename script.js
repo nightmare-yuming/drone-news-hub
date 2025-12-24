@@ -3,43 +3,43 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2025-12-23 00:45:04 UTC
+// Last updated: 2025-12-24 00:45:16 UTC
 const newsData = [
     {
         id: 1,
-        title: "More connected devices than ever will strain 6G with a surge of uplinks",
-        excerpt: "More connected devices than ever will strain 6G with a surge of uplinks...",
+        title: "Zero Zero Robotics’ founder on riding the startup rollercoaster for a decade",
+        excerpt: "Zero Zero Robotics’ founder on riding the startup rollercoaster for a decade...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2025-12-23",
-        url: "https://spectrum.ieee.org/6g-network-infrastructure-bell-labs"
+        date: "2025-12-24",
+        url: "https://spectrum.ieee.org/hoverair-x1"
     },
     {
         id: 2,
-        title: "Your weekly selection of awesome robot videos",
-        excerpt: "Your weekly selection of awesome robot videos...",
+        title: "Hitchhiker latches on using trajectory tracking and suction cups",
+        excerpt: "Hitchhiker latches on using trajectory tracking and suction cups...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2025-12-23",
-        url: "https://spectrum.ieee.org/video-friday-heavy-lift-drones"
+        date: "2025-12-24",
+        url: "https://spectrum.ieee.org/drone-landing-2659913493"
     },
     {
         id: 3,
-        title: "Drones, autonomy, software, and communications lead the roster",
-        excerpt: "Drones, autonomy, software, and communications lead the roster...",
+        title: "An electric hydrofoiling bicycle, consumer lidar, and an air conditioner that uses water instead of coolant caught my attention at CES 2020",
+        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2025-12-23",
-        url: "https://spectrum.ieee.org/ukraine-weapons"
+        date: "2025-12-24",
+        url: "https://spectrum.ieee.org/ces-2020-the-bestand-wildestgadgets-of-the-show"
     },
     {
         id: 4,
-        title: "Your weekly selection of awesome robot videos",
-        excerpt: "Your weekly selection of awesome robot videos...",
+        title: "How UAVs benefit consumers through faster estimates, quicker response times and faster delivery of benefits",
+        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2025-12-23",
-        url: "https://spectrum.ieee.org/video-friday-multimode-drone"
+        date: "2025-12-24",
+        url: "https://spectrum.ieee.org/changing-the-landscape-of-the-insurance-market"
     }
 ];
 
