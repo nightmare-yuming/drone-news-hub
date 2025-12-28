@@ -3,43 +3,43 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2025-12-27 00:44:09 UTC
+// Last updated: 2025-12-28 00:52:49 UTC
 const newsData = [
     {
         id: 1,
+        title: "X Prize teams vie to douse disasters in the making",
+        excerpt: "X Prize teams vie to douse disasters in the making...",
+        category: "technology",
+        source: "IEEE Spectrum",
+        date: "2025-12-28",
+        url: "https://spectrum.ieee.org/wildfire-drones"
+    },
+    {
+        id: 2,
         title: "More connected devices than ever will strain 6G with a surge of uplinks",
         excerpt: "More connected devices than ever will strain 6G with a surge of uplinks...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2025-12-27",
+        date: "2025-12-28",
         url: "https://spectrum.ieee.org/6g-network-infrastructure-bell-labs"
     },
     {
-        id: 2,
+        id: 3,
         title: "Your weekly selection of awesome robot videos",
         excerpt: "Your weekly selection of awesome robot videos...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2025-12-27",
+        date: "2025-12-28",
         url: "https://spectrum.ieee.org/video-friday-heavy-lift-drones"
     },
     {
-        id: 3,
+        id: 4,
         title: "Drones, autonomy, software, and communications lead the roster",
         excerpt: "Drones, autonomy, software, and communications lead the roster...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2025-12-27",
+        date: "2025-12-28",
         url: "https://spectrum.ieee.org/ukraine-weapons"
-    },
-    {
-        id: 4,
-        title: "Your weekly selection of awesome robot videos",
-        excerpt: "Your weekly selection of awesome robot videos...",
-        category: "technology",
-        source: "IEEE Spectrum",
-        date: "2025-12-27",
-        url: "https://spectrum.ieee.org/video-friday-multimode-drone"
     }
 ];
 
