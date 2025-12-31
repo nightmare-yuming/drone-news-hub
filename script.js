@@ -3,7 +3,7 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2025-12-30 00:45:11 UTC
+// Last updated: 2025-12-31 00:46:42 UTC
 const newsData = [
     {
         id: 1,
@@ -11,7 +11,7 @@ const newsData = [
         excerpt: "X Prize teams vie to douse disasters in the making...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2025-12-30",
+        date: "2025-12-31",
         url: "https://spectrum.ieee.org/wildfire-drones"
     },
     {
@@ -20,7 +20,7 @@ const newsData = [
         excerpt: "More connected devices than ever will strain 6G with a surge of uplinks...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2025-12-30",
+        date: "2025-12-31",
         url: "https://spectrum.ieee.org/6g-network-infrastructure-bell-labs"
     },
     {
@@ -29,7 +29,7 @@ const newsData = [
         excerpt: "Your weekly selection of awesome robot videos...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2025-12-30",
+        date: "2025-12-31",
         url: "https://spectrum.ieee.org/video-friday-heavy-lift-drones"
     },
     {
@@ -38,7 +38,7 @@ const newsData = [
         excerpt: "Drones, autonomy, software, and communications lead the roster...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2025-12-30",
+        date: "2025-12-31",
         url: "https://spectrum.ieee.org/ukraine-weapons"
     }
 ];
