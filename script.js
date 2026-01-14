@@ -3,43 +3,43 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2026-01-13 00:42:24 UTC
+// Last updated: 2026-01-14 00:48:28 UTC
 const newsData = [
     {
         id: 1,
-        title: "Chinese researchers are developing an airborne quantum communications network with drones as nodes",
-        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
+        title: "Grid-scale storage, tumor-busting ultrasound, and more cutting-edge projects are bubbling up this year",
+        excerpt: "Grid-scale storage, tumor-busting ultrasound, and more cutting-edge projects are bubbling up this year...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-01-13",
-        url: "https://spectrum.ieee.org/quantum-drone"
+        date: "2026-01-14",
+        url: "https://spectrum.ieee.org/tech-in-2026"
     },
     {
         id: 2,
-        title: "Mitsubishi Electric has developed an algorithm that measures inconsistencies in multiple sensors to thwart malicious manipulation",
-        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
+        title: "The DARPA Triage Challenge will crown an overall winner in 2026",
+        excerpt: "The DARPA Triage Challenge will crown an overall winner in 2026...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-01-13",
-        url: "https://spectrum.ieee.org/new-security-technology-detects-attacks-on-sensors-controlling-numerous-applications-including-drones-cars-and-robots"
+        date: "2026-01-14",
+        url: "https://spectrum.ieee.org/darpa-triage-challenge-robots"
     },
     {
         id: 3,
-        title: "And they have a new piece of hardware—the Jetson TX2—that they hope everyone will use for this edge processing",
-        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
+        title: "X Prize teams vie to douse disasters in the making",
+        excerpt: "X Prize teams vie to douse disasters in the making...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-01-13",
-        url: "https://spectrum.ieee.org/nvidia-wants-ai-to-get-out-of-the-cloud-into-a-camera-drone-or-other-gadget-near-you"
+        date: "2026-01-14",
+        url: "https://spectrum.ieee.org/wildfire-drones"
     },
     {
         id: 4,
-        title: "DARPA shows off all of its cool new toys",
-        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
+        title: "More connected devices than ever will strain 6G with a surge of uplinks",
+        excerpt: "More connected devices than ever will strain 6G with a surge of uplinks...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-01-13",
-        url: "https://spectrum.ieee.org/advanced-research-projects-from-darpas-pentagon-demo-day"
+        date: "2026-01-14",
+        url: "https://spectrum.ieee.org/6g-network-infrastructure-bell-labs"
     }
 ];
 
