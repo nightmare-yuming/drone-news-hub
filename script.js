@@ -3,7 +3,7 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2026-01-20 00:45:24 UTC
+// Last updated: 2026-01-21 00:48:35 UTC
 const newsData = [
     {
         id: 1,
@@ -11,7 +11,7 @@ const newsData = [
         excerpt: "Grid-scale storage, tumor-busting ultrasound, and more cutting-edge projects are bubbling up this year...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-01-20",
+        date: "2026-01-21",
         url: "https://spectrum.ieee.org/tech-in-2026"
     },
     {
@@ -20,7 +20,7 @@ const newsData = [
         excerpt: "The DARPA Triage Challenge will crown an overall winner in 2026...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-01-20",
+        date: "2026-01-21",
         url: "https://spectrum.ieee.org/darpa-triage-challenge-robots"
     },
     {
@@ -29,7 +29,7 @@ const newsData = [
         excerpt: "X Prize teams vie to douse disasters in the making...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-01-20",
+        date: "2026-01-21",
         url: "https://spectrum.ieee.org/wildfire-drones"
     },
     {
@@ -38,7 +38,7 @@ const newsData = [
         excerpt: "More connected devices than ever will strain 6G with a surge of uplinks...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-01-20",
+        date: "2026-01-21",
         url: "https://spectrum.ieee.org/6g-network-infrastructure-bell-labs"
     }
 ];
