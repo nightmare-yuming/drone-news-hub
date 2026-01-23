@@ -3,43 +3,43 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2026-01-22 00:47:17 UTC
+// Last updated: 2026-01-23 00:47:45 UTC
 const newsData = [
     {
         id: 1,
-        title: "New York City study shows that drones could deliver life-saving medical supplies several minutes before an ambulance arrives",
-        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
+        title: "The DARPA Triage Challenge will crown an overall winner in 2026",
+        excerpt: "The DARPA Triage Challenge will crown an overall winner in 2026...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-01-22",
-        url: "https://spectrum.ieee.org/drones-beat-new-york-city-ambulances"
+        date: "2026-01-23",
+        url: "https://spectrum.ieee.org/darpa-triage-challenge-robots"
     },
     {
         id: 2,
-        title: "Medical drones arrived 90 to 120 seconds faster than an ambulance during tests conducted with fake patients placed in Iraq's busy city streets",
-        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
+        title: "X Prize teams vie to douse disasters in the making",
+        excerpt: "X Prize teams vie to douse disasters in the making...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-01-22",
-        url: "https://spectrum.ieee.org/drone-vs-ambulance-drone-wins"
+        date: "2026-01-23",
+        url: "https://spectrum.ieee.org/wildfire-drones"
     },
     {
         id: 3,
-        title: "For real and simulated drones, piloting with torso movements outperforms a joystick every time—and it’s easier to learn",
-        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
+        title: "Your weekly selection of awesome robot videos",
+        excerpt: "Your weekly selection of awesome robot videos...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-01-22",
-        url: "https://spectrum.ieee.org/flying-a-drone-with-your-body"
+        date: "2026-01-23",
+        url: "https://spectrum.ieee.org/video-friday-heavy-lift-drones"
     },
     {
         id: 4,
-        title: "In Vanuatu, delivery drones will fly vaccines to isolated villages beginning in September",
-        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
+        title: "Your weekly selection of awesome robot videos",
+        excerpt: "Your weekly selection of awesome robot videos...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-01-22",
-        url: "https://spectrum.ieee.org/drone-delivery-becomes-a-reality-in-remote-pacific-islands"
+        date: "2026-01-23",
+        url: "https://spectrum.ieee.org/video-friday-multimode-drone"
     }
 ];
 
