@@ -3,43 +3,43 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2026-01-23 00:47:45 UTC
+// Last updated: 2026-01-24 00:45:22 UTC
 const newsData = [
     {
         id: 1,
+        title: "Grid-scale storage, tumor-busting ultrasound, and more cutting-edge projects are bubbling up this year",
+        excerpt: "Grid-scale storage, tumor-busting ultrasound, and more cutting-edge projects are bubbling up this year...",
+        category: "technology",
+        source: "IEEE Spectrum",
+        date: "2026-01-24",
+        url: "https://spectrum.ieee.org/tech-in-2026"
+    },
+    {
+        id: 2,
         title: "The DARPA Triage Challenge will crown an overall winner in 2026",
         excerpt: "The DARPA Triage Challenge will crown an overall winner in 2026...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-01-23",
+        date: "2026-01-24",
         url: "https://spectrum.ieee.org/darpa-triage-challenge-robots"
     },
     {
-        id: 2,
+        id: 3,
         title: "X Prize teams vie to douse disasters in the making",
         excerpt: "X Prize teams vie to douse disasters in the making...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-01-23",
+        date: "2026-01-24",
         url: "https://spectrum.ieee.org/wildfire-drones"
     },
     {
-        id: 3,
-        title: "Your weekly selection of awesome robot videos",
-        excerpt: "Your weekly selection of awesome robot videos...",
-        category: "technology",
-        source: "IEEE Spectrum",
-        date: "2026-01-23",
-        url: "https://spectrum.ieee.org/video-friday-heavy-lift-drones"
-    },
-    {
         id: 4,
-        title: "Your weekly selection of awesome robot videos",
-        excerpt: "Your weekly selection of awesome robot videos...",
+        title: "More connected devices than ever will strain 6G with a surge of uplinks",
+        excerpt: "More connected devices than ever will strain 6G with a surge of uplinks...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-01-23",
-        url: "https://spectrum.ieee.org/video-friday-multimode-drone"
+        date: "2026-01-24",
+        url: "https://spectrum.ieee.org/6g-network-infrastructure-bell-labs"
     }
 ];
 
