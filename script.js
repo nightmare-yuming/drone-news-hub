@@ -3,43 +3,43 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2026-01-27 00:51:16 UTC
+// Last updated: 2026-01-28 00:47:14 UTC
 const newsData = [
     {
         id: 1,
-        title: "Drones, autonomy, software, and communications lead the roster",
-        excerpt: "Drones, autonomy, software, and communications lead the roster...",
+        title: "A new 16,384-pixel lidar chip could find use in autonomous vehicles, drones, and robots",
+        excerpt: "A new 16,384-pixel lidar chip could find use in autonomous vehicles, drones, and robots...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-01-27",
-        url: "https://spectrum.ieee.org/ukraine-weapons"
+        date: "2026-01-28",
+        url: "https://spectrum.ieee.org/solid-state-lidar"
     },
     {
         id: 2,
-        title: "Killer drones spot landmarks as they fly to their targets",
-        excerpt: "Killer drones spot landmarks as they fly to their targets...",
+        title: "Simulations suggest that the approach can achieve early wildfire detection with 99 percent accuracy",
+        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-01-27",
-        url: "https://spectrum.ieee.org/ukraine-killer-drones"
+        date: "2026-01-28",
+        url: "https://spectrum.ieee.org/drones-sensors-wildfire-detection"
     },
     {
         id: 3,
-        title: "Airships are becoming a vital part of the country’s anti-drone efforts",
-        excerpt: "Airships are becoming a vital part of the country’s anti-drone efforts...",
+        title: "Drones or airplanes might be able to quickly map seafloors and inspect shipwrecks using the photoacoustic method",
+        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-01-27",
-        url: "https://spectrum.ieee.org/airships-drones-ukraine"
+        date: "2026-01-28",
+        url: "https://spectrum.ieee.org/lightdriven-sonar-could-survey-the-oceans-from-the-air"
     },
     {
         id: 4,
-        title: "High-end positioning tech comes to low-cost UAVs",
-        excerpt: "High-end positioning tech comes to low-cost UAVs...",
+        title: "A new approach allows unmanned aerial vehicles to deliver power wirelessly to remote sensors",
+        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-01-27",
-        url: "https://spectrum.ieee.org/drone-gps-alternatives"
+        date: "2026-01-28",
+        url: "https://spectrum.ieee.org/uavs-prove-usefuldelivering-remote-power-charging-services"
     }
 ];
 
