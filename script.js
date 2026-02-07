@@ -3,43 +3,43 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2026-02-06 00:55:24 UTC
+// Last updated: 2026-02-07 00:54:58 UTC
 const newsData = [
     {
         id: 1,
-        title: "A new 16,384-pixel lidar chip could find use in autonomous vehicles, drones, and robots",
-        excerpt: "A new 16,384-pixel lidar chip could find use in autonomous vehicles, drones, and robots...",
+        title: "Your weekly selection of awesome robot videos",
+        excerpt: "Your weekly selection of awesome robot videos...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-02-06",
-        url: "https://spectrum.ieee.org/solid-state-lidar"
+        date: "2026-02-07",
+        url: "https://spectrum.ieee.org/multitasking-robot"
     },
     {
         id: 2,
-        title: "Simulations suggest that the approach can achieve early wildfire detection with 99 percent accuracy",
-        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
+        title: "Grid-scale storage, tumor-busting ultrasound, and more cutting-edge projects are bubbling up this year",
+        excerpt: "Grid-scale storage, tumor-busting ultrasound, and more cutting-edge projects are bubbling up this year...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-02-06",
-        url: "https://spectrum.ieee.org/drones-sensors-wildfire-detection"
+        date: "2026-02-07",
+        url: "https://spectrum.ieee.org/tech-in-2026"
     },
     {
         id: 3,
-        title: "Drones or airplanes might be able to quickly map seafloors and inspect shipwrecks using the photoacoustic method",
-        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
+        title: "The DARPA Triage Challenge will crown an overall winner in 2026",
+        excerpt: "The DARPA Triage Challenge will crown an overall winner in 2026...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-02-06",
-        url: "https://spectrum.ieee.org/lightdriven-sonar-could-survey-the-oceans-from-the-air"
+        date: "2026-02-07",
+        url: "https://spectrum.ieee.org/darpa-triage-challenge-robots"
     },
     {
         id: 4,
-        title: "A new approach allows unmanned aerial vehicles to deliver power wirelessly to remote sensors",
-        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
+        title: "X Prize teams vie to douse disasters in the making",
+        excerpt: "X Prize teams vie to douse disasters in the making...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-02-06",
-        url: "https://spectrum.ieee.org/uavs-prove-usefuldelivering-remote-power-charging-services"
+        date: "2026-02-07",
+        url: "https://spectrum.ieee.org/wildfire-drones"
     }
 ];
 
