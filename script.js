@@ -3,7 +3,7 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2026-02-12 01:00:12 UTC
+// Last updated: 2026-02-13 01:03:48 UTC
 const newsData = [
     {
         id: 1,
@@ -11,7 +11,7 @@ const newsData = [
         excerpt: "Your weekly selection of awesome robot videos...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-02-12",
+        date: "2026-02-13",
         url: "https://spectrum.ieee.org/multitasking-robot"
     },
     {
@@ -20,7 +20,7 @@ const newsData = [
         excerpt: "The DARPA Triage Challenge will crown an overall winner in 2026...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-02-12",
+        date: "2026-02-13",
         url: "https://spectrum.ieee.org/darpa-triage-challenge-robots"
     },
     {
@@ -29,7 +29,7 @@ const newsData = [
         excerpt: "X Prize teams vie to douse disasters in the making...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-02-12",
+        date: "2026-02-13",
         url: "https://spectrum.ieee.org/wildfire-drones"
     },
     {
@@ -38,7 +38,7 @@ const newsData = [
         excerpt: "Your weekly selection of awesome robot videos...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-02-12",
+        date: "2026-02-13",
         url: "https://spectrum.ieee.org/video-friday-heavy-lift-drones"
     }
 ];
