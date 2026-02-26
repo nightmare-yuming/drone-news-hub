@@ -1,6 +1,6 @@
 # Drone News Hub - 無人機新聞研究中心
 
-[![Update Drone News](https://github.com/你的用戶名/drone-news-hub/actions/workflows/update-news.yml/badge.svg)](https://github.com/你的用戶名/drone-news-hub/actions/workflows/update-news.yml)
+[![Update Drone News](https://github.com/nightmare-yuming/drone-news-hub/actions/workflows/update-news.yml/badge.svg)](https://github.com/nightmare-yuming/drone-news-hub/actions/workflows/update-news.yml)
 
 > 每日自動更新的無人機新聞與研究資訊平台
 
