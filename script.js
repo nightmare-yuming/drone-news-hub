@@ -3,43 +3,43 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2026-02-26 00:56:40 UTC
+// Last updated: 2026-02-27 00:58:04 UTC
 const newsData = [
     {
         id: 1,
-        title: "Your weekly selection of awesome robot videos",
-        excerpt: "Your weekly selection of awesome robot videos...",
+        title: "Drones, autonomy, software, and communications lead the roster",
+        excerpt: "Drones, autonomy, software, and communications lead the roster...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-02-26",
-        url: "https://spectrum.ieee.org/multitasking-robot"
+        date: "2026-02-27",
+        url: "https://spectrum.ieee.org/ukraine-weapons"
     },
     {
         id: 2,
-        title: "Grid-scale storage, tumor-busting ultrasound, and more cutting-edge projects are bubbling up this year",
-        excerpt: "Grid-scale storage, tumor-busting ultrasound, and more cutting-edge projects are bubbling up this year...",
+        title: "Killer drones spot landmarks as they fly to their targets",
+        excerpt: "Killer drones spot landmarks as they fly to their targets...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-02-26",
-        url: "https://spectrum.ieee.org/tech-in-2026"
+        date: "2026-02-27",
+        url: "https://spectrum.ieee.org/ukraine-killer-drones"
     },
     {
         id: 3,
-        title: "The DARPA Triage Challenge will crown an overall winner in 2026",
-        excerpt: "The DARPA Triage Challenge will crown an overall winner in 2026...",
+        title: "Airships are becoming a vital part of the country’s anti-drone efforts",
+        excerpt: "Airships are becoming a vital part of the country’s anti-drone efforts...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-02-26",
-        url: "https://spectrum.ieee.org/darpa-triage-challenge-robots"
+        date: "2026-02-27",
+        url: "https://spectrum.ieee.org/airships-drones-ukraine"
     },
     {
         id: 4,
-        title: "X Prize teams vie to douse disasters in the making",
-        excerpt: "X Prize teams vie to douse disasters in the making...",
+        title: "High-end positioning tech comes to low-cost UAVs",
+        excerpt: "High-end positioning tech comes to low-cost UAVs...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-02-26",
-        url: "https://spectrum.ieee.org/wildfire-drones"
+        date: "2026-02-27",
+        url: "https://spectrum.ieee.org/drone-gps-alternatives"
     }
 ];
 
