@@ -3,43 +3,43 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2026-03-03 01:00:02 UTC
+// Last updated: 2026-03-04 00:56:38 UTC
 const newsData = [
     {
         id: 1,
+        title: "Your weekly selection of awesome robot videos",
+        excerpt: "Your weekly selection of awesome robot videos...",
+        category: "technology",
+        source: "IEEE Spectrum",
+        date: "2026-03-04",
+        url: "https://spectrum.ieee.org/multitasking-robot"
+    },
+    {
+        id: 2,
         title: "Grid-scale storage, tumor-busting ultrasound, and more cutting-edge projects are bubbling up this year",
         excerpt: "Grid-scale storage, tumor-busting ultrasound, and more cutting-edge projects are bubbling up this year...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-03-03",
+        date: "2026-03-04",
         url: "https://spectrum.ieee.org/tech-in-2026"
     },
     {
-        id: 2,
+        id: 3,
         title: "The DARPA Triage Challenge will crown an overall winner in 2026",
         excerpt: "The DARPA Triage Challenge will crown an overall winner in 2026...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-03-03",
+        date: "2026-03-04",
         url: "https://spectrum.ieee.org/darpa-triage-challenge-robots"
     },
     {
-        id: 3,
+        id: 4,
         title: "X Prize teams vie to douse disasters in the making",
         excerpt: "X Prize teams vie to douse disasters in the making...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-03-03",
+        date: "2026-03-04",
         url: "https://spectrum.ieee.org/wildfire-drones"
-    },
-    {
-        id: 4,
-        title: "More connected devices than ever will strain 6G with a surge of uplinks",
-        excerpt: "More connected devices than ever will strain 6G with a surge of uplinks...",
-        category: "technology",
-        source: "IEEE Spectrum",
-        date: "2026-03-03",
-        url: "https://spectrum.ieee.org/6g-network-infrastructure-bell-labs"
     }
 ];
 
