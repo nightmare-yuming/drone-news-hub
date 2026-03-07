@@ -3,43 +3,43 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2026-03-06 01:03:05 UTC
+// Last updated: 2026-03-07 00:54:45 UTC
 const newsData = [
     {
         id: 1,
-        title: "Your weekly selection of awesome robot videos",
-        excerpt: "Your weekly selection of awesome robot videos...",
+        title: "The Spatial Web standard connects devices, robots, and AI agents",
+        excerpt: "The Spatial Web standard connects devices, robots, and AI agents...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-03-06",
-        url: "https://spectrum.ieee.org/multitasking-robot"
+        date: "2026-03-07",
+        url: "https://spectrum.ieee.org/spatial-web-standard"
     },
     {
         id: 2,
-        title: "Grid-scale storage, tumor-busting ultrasound, and more cutting-edge projects are bubbling up this year",
-        excerpt: "Grid-scale storage, tumor-busting ultrasound, and more cutting-edge projects are bubbling up this year...",
+        title: "Drones and situation rooms inform responses to floods and cyclones",
+        excerpt: "Drones and situation rooms inform responses to floods and cyclones...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-03-06",
-        url: "https://spectrum.ieee.org/tech-in-2026"
+        date: "2026-03-07",
+        url: "https://spectrum.ieee.org/disaster-response-tech-mozambique"
     },
     {
         id: 3,
-        title: "The DARPA Triage Challenge will crown an overall winner in 2026",
-        excerpt: "The DARPA Triage Challenge will crown an overall winner in 2026...",
+        title: "Telecom companies say 5G offers lower latency and better security",
+        excerpt: "Telecom companies say 5G offers lower latency and better security...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-03-06",
-        url: "https://spectrum.ieee.org/darpa-triage-challenge-robots"
+        date: "2026-03-07",
+        url: "https://spectrum.ieee.org/private-5g-vodafone"
     },
     {
         id: 4,
-        title: "X Prize teams vie to douse disasters in the making",
-        excerpt: "X Prize teams vie to douse disasters in the making...",
+        title: "In a series of experiments, researchers showed how to intercept transmissions and hoist control of popular Internet of Things devices",
+        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-03-06",
-        url: "https://spectrum.ieee.org/wildfire-drones"
+        date: "2026-03-07",
+        url: "https://spectrum.ieee.org/iot-security-risks-drones-vibrators-iot-devices-kids-toys-vulnerable-to-hacking"
     }
 ];
 
