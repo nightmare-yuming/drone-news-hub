@@ -3,43 +3,43 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2026-03-09 00:59:03 UTC
+// Last updated: 2026-03-10 00:53:37 UTC
 const newsData = [
     {
         id: 1,
-        title: "Hitchhiker latches on using trajectory tracking and suction cups",
-        excerpt: "Hitchhiker latches on using trajectory tracking and suction cups...",
+        title: "Your weekly selection of awesome robot videos",
+        excerpt: "Your weekly selection of awesome robot videos...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-03-09",
-        url: "https://spectrum.ieee.org/drone-landing-2659913493"
+        date: "2026-03-10",
+        url: "https://spectrum.ieee.org/multitasking-robot"
     },
     {
         id: 2,
-        title: "An electric hydrofoiling bicycle, consumer lidar, and an air conditioner that uses water instead of coolant caught my attention at CES 2020",
-        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
+        title: "Grid-scale storage, tumor-busting ultrasound, and more cutting-edge projects are bubbling up this year",
+        excerpt: "Grid-scale storage, tumor-busting ultrasound, and more cutting-edge projects are bubbling up this year...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-03-09",
-        url: "https://spectrum.ieee.org/ces-2020-the-bestand-wildestgadgets-of-the-show"
+        date: "2026-03-10",
+        url: "https://spectrum.ieee.org/tech-in-2026"
     },
     {
         id: 3,
-        title: "How UAVs benefit consumers through faster estimates, quicker response times and faster delivery of benefits",
-        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
+        title: "The DARPA Triage Challenge will crown an overall winner in 2026",
+        excerpt: "The DARPA Triage Challenge will crown an overall winner in 2026...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-03-09",
-        url: "https://spectrum.ieee.org/changing-the-landscape-of-the-insurance-market"
+        date: "2026-03-10",
+        url: "https://spectrum.ieee.org/darpa-triage-challenge-robots"
     },
     {
         id: 4,
-        title: "Learn about new drones, smart home gadgets, and mesh networks in this live broadcast from the CES show floor",
-        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
+        title: "X Prize teams vie to douse disasters in the making",
+        excerpt: "X Prize teams vie to douse disasters in the making...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-03-09",
-        url: "https://spectrum.ieee.org/ces-2018-gadgets-and-technology-on-the-showfloor"
+        date: "2026-03-10",
+        url: "https://spectrum.ieee.org/wildfire-drones"
     }
 ];
 
