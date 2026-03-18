@@ -3,7 +3,7 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2026-03-17 00:59:29 UTC
+// Last updated: 2026-03-18 01:03:04 UTC
 const newsData = [
     {
         id: 1,
@@ -11,7 +11,7 @@ const newsData = [
         excerpt: "Gulf War research from the 1990s has critical lessons for autonomous vehicle safety...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-03-17",
+        date: "2026-03-18",
         url: "https://spectrum.ieee.org/military-drones-self-driving-cars"
     },
     {
@@ -20,7 +20,7 @@ const newsData = [
         excerpt: "Your weekly selection of awesome robot videos...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-03-17",
+        date: "2026-03-18",
         url: "https://spectrum.ieee.org/multitasking-robot"
     },
     {
@@ -29,7 +29,7 @@ const newsData = [
         excerpt: "Grid-scale storage, tumor-busting ultrasound, and more cutting-edge projects are bubbling up this year...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-03-17",
+        date: "2026-03-18",
         url: "https://spectrum.ieee.org/tech-in-2026"
     },
     {
@@ -38,7 +38,7 @@ const newsData = [
         excerpt: "The DARPA Triage Challenge will crown an overall winner in 2026...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-03-17",
+        date: "2026-03-18",
         url: "https://spectrum.ieee.org/darpa-triage-challenge-robots"
     }
 ];
