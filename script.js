@@ -3,43 +3,43 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2026-03-24 00:56:04 UTC
+// Last updated: 2026-03-25 01:01:29 UTC
 const newsData = [
     {
         id: 1,
-        title: "Medical drones arrived 90 to 120 seconds faster than an ambulance during tests conducted with fake patients placed in Iraq's busy city streets",
-        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
+        title: "Gulf War research from the 1990s has critical lessons for autonomous vehicle safety",
+        excerpt: "Gulf War research from the 1990s has critical lessons for autonomous vehicle safety...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-03-24",
-        url: "https://spectrum.ieee.org/drone-vs-ambulance-drone-wins"
+        date: "2026-03-25",
+        url: "https://spectrum.ieee.org/military-drones-self-driving-cars"
     },
     {
         id: 2,
-        title: "For real and simulated drones, piloting with torso movements outperforms a joystick every time—and it’s easier to learn",
-        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
+        title: "Your weekly selection of awesome robot videos",
+        excerpt: "Your weekly selection of awesome robot videos...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-03-24",
-        url: "https://spectrum.ieee.org/flying-a-drone-with-your-body"
+        date: "2026-03-25",
+        url: "https://spectrum.ieee.org/multitasking-robot"
     },
     {
         id: 3,
-        title: "In Vanuatu, delivery drones will fly vaccines to isolated villages beginning in September",
-        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
+        title: "Grid-scale storage, tumor-busting ultrasound, and more cutting-edge projects are bubbling up this year",
+        excerpt: "Grid-scale storage, tumor-busting ultrasound, and more cutting-edge projects are bubbling up this year...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-03-24",
-        url: "https://spectrum.ieee.org/drone-delivery-becomes-a-reality-in-remote-pacific-islands"
+        date: "2026-03-25",
+        url: "https://spectrum.ieee.org/tech-in-2026"
     },
     {
         id: 4,
-        title: "In Rwanda, the drone delivery startup Zipline is now bringing blood across mountains",
-        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
+        title: "The DARPA Triage Challenge will crown an overall winner in 2026",
+        excerpt: "The DARPA Triage Challenge will crown an overall winner in 2026...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-03-24",
-        url: "https://spectrum.ieee.org/when-drone-delivery-makes-sense-when-youre-flying-lifesaving-blood-to-hospitals"
+        date: "2026-03-25",
+        url: "https://spectrum.ieee.org/darpa-triage-challenge-robots"
     }
 ];
 
