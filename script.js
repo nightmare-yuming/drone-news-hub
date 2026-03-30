@@ -3,43 +3,43 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2026-03-29 01:08:59 UTC
+// Last updated: 2026-03-30 01:09:47 UTC
 const newsData = [
     {
         id: 1,
-        title: "Gulf War research from the 1990s has critical lessons for autonomous vehicle safety",
-        excerpt: "Gulf War research from the 1990s has critical lessons for autonomous vehicle safety...",
-        category: "technology",
-        source: "IEEE Spectrum",
-        date: "2026-03-29",
-        url: "https://spectrum.ieee.org/military-drones-self-driving-cars"
-    },
-    {
-        id: 2,
-        title: "Your weekly selection of awesome robot videos",
-        excerpt: "Your weekly selection of awesome robot videos...",
-        category: "technology",
-        source: "IEEE Spectrum",
-        date: "2026-03-29",
-        url: "https://spectrum.ieee.org/multitasking-robot"
-    },
-    {
-        id: 3,
         title: "Grid-scale storage, tumor-busting ultrasound, and more cutting-edge projects are bubbling up this year",
         excerpt: "Grid-scale storage, tumor-busting ultrasound, and more cutting-edge projects are bubbling up this year...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-03-29",
+        date: "2026-03-30",
         url: "https://spectrum.ieee.org/tech-in-2026"
     },
     {
-        id: 4,
-        title: "The DARPA Triage Challenge will crown an overall winner in 2026",
-        excerpt: "The DARPA Triage Challenge will crown an overall winner in 2026...",
+        id: 2,
+        title: "As Ukraine’s energy infrastructure gets pummeled, the nation’s allies have yet to answer desperate calls for support",
+        excerpt: "As Ukraine’s energy infrastructure gets pummeled, the nation’s allies have yet to answer desperate calls for support...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-03-29",
-        url: "https://spectrum.ieee.org/darpa-triage-challenge-robots"
+        date: "2026-03-30",
+        url: "https://spectrum.ieee.org/russia-targets-ukraine-grid"
+    },
+    {
+        id: 3,
+        title: "Smart image analysis algorithms, fed by cameras carried by drones and ground vehicles, can help power companies prevent forest fires",
+        excerpt: "Smart image analysis algorithms, fed by cameras carried by drones and ground vehicles, can help power companies prevent forest fires...",
+        category: "technology",
+        source: "IEEE Spectrum",
+        date: "2026-03-30",
+        url: "https://spectrum.ieee.org/smokey-the-ai"
+    },
+    {
+        id: 4,
+        title: "A zinc-air battery made partly of Kevlar can be used to support weight, not just add to it",
+        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
+        category: "technology",
+        source: "IEEE Spectrum",
+        date: "2026-03-30",
+        url: "https://spectrum.ieee.org/a-structural-battery-that-makes-up-the-machine-that-it-powers"
     }
 ];
 
