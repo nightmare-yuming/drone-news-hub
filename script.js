@@ -3,34 +3,43 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2026-03-31 01:07:36 UTC
+// Last updated: 2026-04-01 01:14:16 UTC
 const newsData = [
     {
         id: 1,
-        title: "Simulations suggest that the approach can achieve early wildfire detection with 99 percent accuracy",
-        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
+        title: "Gulf War research from the 1990s has critical lessons for autonomous vehicle safety",
+        excerpt: "Gulf War research from the 1990s has critical lessons for autonomous vehicle safety...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-03-31",
-        url: "https://spectrum.ieee.org/drones-sensors-wildfire-detection"
+        date: "2026-04-01",
+        url: "https://spectrum.ieee.org/military-drones-self-driving-cars"
     },
     {
         id: 2,
-        title: "Drones or airplanes might be able to quickly map seafloors and inspect shipwrecks using the photoacoustic method",
-        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
+        title: "Your weekly selection of awesome robot videos",
+        excerpt: "Your weekly selection of awesome robot videos...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-03-31",
-        url: "https://spectrum.ieee.org/lightdriven-sonar-could-survey-the-oceans-from-the-air"
+        date: "2026-04-01",
+        url: "https://spectrum.ieee.org/multitasking-robot"
     },
     {
         id: 3,
-        title: "A new approach allows unmanned aerial vehicles to deliver power wirelessly to remote sensors",
-        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
+        title: "Grid-scale storage, tumor-busting ultrasound, and more cutting-edge projects are bubbling up this year",
+        excerpt: "Grid-scale storage, tumor-busting ultrasound, and more cutting-edge projects are bubbling up this year...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-03-31",
-        url: "https://spectrum.ieee.org/uavs-prove-usefuldelivering-remote-power-charging-services"
+        date: "2026-04-01",
+        url: "https://spectrum.ieee.org/tech-in-2026"
+    },
+    {
+        id: 4,
+        title: "The DARPA Triage Challenge will crown an overall winner in 2026",
+        excerpt: "The DARPA Triage Challenge will crown an overall winner in 2026...",
+        category: "technology",
+        source: "IEEE Spectrum",
+        date: "2026-04-01",
+        url: "https://spectrum.ieee.org/darpa-triage-challenge-robots"
     }
 ];
 
