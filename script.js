@@ -3,43 +3,43 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2026-04-09 00:59:06 UTC
+// Last updated: 2026-04-10 01:09:29 UTC
 const newsData = [
     {
         id: 1,
+        title: "Drone strikes lead a host of ways to disrupt electricity",
+        excerpt: "Drone strikes lead a host of ways to disrupt electricity...",
+        category: "technology",
+        source: "IEEE Spectrum",
+        date: "2026-04-10",
+        url: "https://spectrum.ieee.org/power-grid-attack-security-gridex"
+    },
+    {
+        id: 2,
         title: "Gulf War research from the 1990s has critical lessons for autonomous vehicle safety",
         excerpt: "Gulf War research from the 1990s has critical lessons for autonomous vehicle safety...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-04-09",
+        date: "2026-04-10",
         url: "https://spectrum.ieee.org/military-drones-self-driving-cars"
     },
     {
-        id: 2,
+        id: 3,
         title: "Top robot videos — week of 30 January 2026",
         excerpt: "Latest developments in drone technology from IEEE Spectrum.",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-04-09",
+        date: "2026-04-10",
         url: "https://spectrum.ieee.org/multitasking-robot"
     },
     {
-        id: 3,
+        id: 4,
         title: "Grid-scale storage, tumor-busting ultrasound, and more cutting-edge projects are bubbling up this year",
         excerpt: "Grid-scale storage, tumor-busting ultrasound, and more cutting-edge projects are bubbling up this year...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-04-09",
+        date: "2026-04-10",
         url: "https://spectrum.ieee.org/tech-in-2026"
-    },
-    {
-        id: 4,
-        title: "The DARPA Triage Challenge will crown an overall winner in 2026",
-        excerpt: "The DARPA Triage Challenge will crown an overall winner in 2026...",
-        category: "technology",
-        source: "IEEE Spectrum",
-        date: "2026-04-09",
-        url: "https://spectrum.ieee.org/darpa-triage-challenge-robots"
     }
 ];
 
