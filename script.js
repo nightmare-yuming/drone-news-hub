@@ -3,7 +3,7 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2026-04-14 01:14:22 UTC
+// Last updated: 2026-04-15 01:12:29 UTC
 const newsData = [
     {
         id: 1,
@@ -11,7 +11,7 @@ const newsData = [
         excerpt: "Drone strikes lead a host of ways to disrupt electricity...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-04-14",
+        date: "2026-04-15",
         url: "https://spectrum.ieee.org/power-grid-attack-security-gridex"
     },
     {
@@ -20,7 +20,7 @@ const newsData = [
         excerpt: "Gulf War research from the 1990s has critical lessons for autonomous vehicle safety...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-04-14",
+        date: "2026-04-15",
         url: "https://spectrum.ieee.org/military-drones-self-driving-cars"
     },
     {
@@ -29,7 +29,7 @@ const newsData = [
         excerpt: "Latest developments in drone technology from IEEE Spectrum.",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-04-14",
+        date: "2026-04-15",
         url: "https://spectrum.ieee.org/multitasking-robot"
     },
     {
@@ -38,7 +38,7 @@ const newsData = [
         excerpt: "Grid-scale storage, tumor-busting ultrasound, and more cutting-edge projects are bubbling up this year...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-04-14",
+        date: "2026-04-15",
         url: "https://spectrum.ieee.org/tech-in-2026"
     }
 ];
