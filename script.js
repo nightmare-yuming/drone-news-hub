@@ -3,43 +3,43 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2026-04-16 01:16:41 UTC
+// Last updated: 2026-04-17 01:14:30 UTC
 const newsData = [
     {
         id: 1,
-        title: "Mitsubishi Electric has developed an algorithm that measures inconsistencies in multiple sensors to thwart malicious manipulation",
-        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
+        title: "Drone strikes lead a host of ways to disrupt electricity",
+        excerpt: "Drone strikes lead a host of ways to disrupt electricity...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-04-16",
-        url: "https://spectrum.ieee.org/new-security-technology-detects-attacks-on-sensors-controlling-numerous-applications-including-drones-cars-and-robots"
+        date: "2026-04-17",
+        url: "https://spectrum.ieee.org/power-grid-attack-security-gridex"
     },
     {
         id: 2,
-        title: "And they have a new piece of hardware—the Jetson TX2—that they hope everyone will use for this edge processing",
-        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
+        title: "Gulf War research from the 1990s has critical lessons for autonomous vehicle safety",
+        excerpt: "Gulf War research from the 1990s has critical lessons for autonomous vehicle safety...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-04-16",
-        url: "https://spectrum.ieee.org/nvidia-wants-ai-to-get-out-of-the-cloud-into-a-camera-drone-or-other-gadget-near-you"
+        date: "2026-04-17",
+        url: "https://spectrum.ieee.org/military-drones-self-driving-cars"
     },
     {
         id: 3,
-        title: "DARPA shows off all of its cool new toys",
+        title: "Top robot videos — week of 30 January 2026",
         excerpt: "Latest developments in drone technology from IEEE Spectrum.",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-04-16",
-        url: "https://spectrum.ieee.org/advanced-research-projects-from-darpas-pentagon-demo-day"
+        date: "2026-04-17",
+        url: "https://spectrum.ieee.org/multitasking-robot"
     },
     {
         id: 4,
-        title: "China puts export license restrictions on sales of its supercomputer and drone technologies overseas",
-        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
+        title: "Grid-scale storage, tumor-busting ultrasound, and more cutting-edge projects are bubbling up this year",
+        excerpt: "Grid-scale storage, tumor-busting ultrasound, and more cutting-edge projects are bubbling up this year...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-04-16",
-        url: "https://spectrum.ieee.org/china-tightens-control-on-exports-of-supercomputers-drones"
+        date: "2026-04-17",
+        url: "https://spectrum.ieee.org/tech-in-2026"
     }
 ];
 
