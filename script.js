@@ -3,43 +3,43 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2026-04-28 01:26:37 UTC
+// Last updated: 2026-04-29 01:29:35 UTC
 const newsData = [
     {
         id: 1,
-        title: "Killer drones spot landmarks as they fly to their targets",
-        excerpt: "Killer drones spot landmarks as they fly to their targets...",
+        title: "Drone strikes lead a host of ways to disrupt electricity",
+        excerpt: "Drone strikes lead a host of ways to disrupt electricity...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-04-28",
-        url: "https://spectrum.ieee.org/ukraine-killer-drones"
+        date: "2026-04-29",
+        url: "https://spectrum.ieee.org/power-grid-attack-security-gridex"
     },
     {
         id: 2,
-        title: "Airships are becoming a vital part of the country’s anti-drone efforts",
-        excerpt: "Airships are becoming a vital part of the country’s anti-drone efforts...",
+        title: "Gulf War research from the 1990s has critical lessons for autonomous vehicle safety",
+        excerpt: "Gulf War research from the 1990s has critical lessons for autonomous vehicle safety...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-04-28",
-        url: "https://spectrum.ieee.org/airships-drones-ukraine"
+        date: "2026-04-29",
+        url: "https://spectrum.ieee.org/military-drones-self-driving-cars"
     },
     {
         id: 3,
-        title: "High-end positioning tech comes to low-cost UAVs",
-        excerpt: "High-end positioning tech comes to low-cost UAVs...",
+        title: "Top robot videos — week of 30 January 2026",
+        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-04-28",
-        url: "https://spectrum.ieee.org/drone-gps-alternatives"
+        date: "2026-04-29",
+        url: "https://spectrum.ieee.org/multitasking-robot"
     },
     {
         id: 4,
-        title: "It weighs less than a nickel and can fly nonstop while the sun shines",
-        excerpt: "It weighs less than a nickel and can fly nonstop while the sun shines...",
+        title: "Grid-scale storage, tumor-busting ultrasound, and more cutting-edge projects are bubbling up this year",
+        excerpt: "Grid-scale storage, tumor-busting ultrasound, and more cutting-edge projects are bubbling up this year...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-04-28",
-        url: "https://spectrum.ieee.org/smallest-drone"
+        date: "2026-04-29",
+        url: "https://spectrum.ieee.org/tech-in-2026"
     }
 ];
 
