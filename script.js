@@ -3,43 +3,43 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2026-05-21 01:53:38 UTC
+// Last updated: 2026-05-22 01:55:14 UTC
 const newsData = [
     {
         id: 1,
-        title: "A chip-to-cloud assurance architecture enabling secure, resilient, and safe autonomy across robots, sensors, and humans.",
-        excerpt: "A chip-to-cloud assurance architecture enabling secure, resilient, and safe autonomy across robots, sensors, and humans....",
+        title: "How Embodied Intelligence Enhances the Safety, Resilience, and Autonomy of UAV Systems",
+        excerpt: "How Embodied Intelligence Enhances the Safety, Resilience, and Autonomy of UAV Systems...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-05-21",
-        url: "https://content.knowledgehub.wiley.com/goztasp-a-zero-trust-platform-for-governing-autonomous-systems-at-mission-scale/"
+        date: "2026-05-22",
+        url: "https://content.knowledgehub.wiley.com/empowering-drone-security-with-embodied-ai/"
     },
     {
         id: 2,
-        title: "Drone strikes lead a host of ways to disrupt electricity",
-        excerpt: "Drone strikes lead a host of ways to disrupt electricity...",
+        title: "Combining drones and machine learning to demine Ukrainian battlefields",
+        excerpt: "Combining drones and machine learning to demine Ukrainian battlefields...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-05-21",
-        url: "https://spectrum.ieee.org/power-grid-attack-security-gridex"
+        date: "2026-05-22",
+        url: "https://spectrum.ieee.org/clear-land-mines-drones-ai"
     },
     {
         id: 3,
-        title: "Gulf War research from the 1990s has critical lessons for autonomous vehicle safety",
-        excerpt: "Gulf War research from the 1990s has critical lessons for autonomous vehicle safety...",
+        title: "This startup is reinventing the process of demining",
+        excerpt: "This startup is reinventing the process of demining...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-05-21",
-        url: "https://spectrum.ieee.org/military-drones-self-driving-cars"
+        date: "2026-05-22",
+        url: "https://spectrum.ieee.org/ukraine-drones"
     },
     {
         id: 4,
-        title: "Top robot videos — week of 30 January 2026",
-        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
+        title: "Senseiver brings AI closer to the edge",
+        excerpt: "Senseiver brings AI closer to the edge...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-05-21",
-        url: "https://spectrum.ieee.org/multitasking-robot"
+        date: "2026-05-22",
+        url: "https://spectrum.ieee.org/orphan-wells"
     }
 ];
 
