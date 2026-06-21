@@ -3,7 +3,7 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2026-06-20 01:59:45 UTC
+// Last updated: 2026-06-21 02:11:11 UTC
 const newsData = [
     {
         id: 1,
@@ -11,7 +11,7 @@ const newsData = [
         excerpt: "A chip-to-cloud assurance architecture enabling secure, resilient, and safe autonomy across robots, sensors, and humans....",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-06-20",
+        date: "2026-06-21",
         url: "https://content.knowledgehub.wiley.com/goztasp-a-zero-trust-platform-for-governing-autonomous-systems-at-mission-scale/"
     },
     {
@@ -20,7 +20,7 @@ const newsData = [
         excerpt: "Drone strikes lead a host of ways to disrupt electricity...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-06-20",
+        date: "2026-06-21",
         url: "https://spectrum.ieee.org/power-grid-attack-security-gridex"
     },
     {
@@ -29,7 +29,7 @@ const newsData = [
         excerpt: "Gulf War research from the 1990s has critical lessons for autonomous vehicle safety...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-06-20",
+        date: "2026-06-21",
         url: "https://spectrum.ieee.org/military-drones-self-driving-cars"
     },
     {
@@ -38,7 +38,7 @@ const newsData = [
         excerpt: "Latest developments in drone technology from IEEE Spectrum.",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-06-20",
+        date: "2026-06-21",
         url: "https://spectrum.ieee.org/multitasking-robot"
     }
 ];
