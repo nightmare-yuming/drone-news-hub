@@ -3,43 +3,43 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2026-06-30 01:56:22 UTC
+// Last updated: 2026-07-01 02:02:07 UTC
 const newsData = [
     {
         id: 1,
-        title: "A chip-to-cloud assurance architecture enabling secure, resilient, and safe autonomy across robots, sensors, and humans.",
-        excerpt: "A chip-to-cloud assurance architecture enabling secure, resilient, and safe autonomy across robots, sensors, and humans....",
-        category: "technology",
-        source: "IEEE Spectrum",
-        date: "2026-06-30",
-        url: "https://content.knowledgehub.wiley.com/goztasp-a-zero-trust-platform-for-governing-autonomous-systems-at-mission-scale/"
-    },
-    {
-        id: 2,
-        title: "Drone strikes lead a host of ways to disrupt electricity",
-        excerpt: "Drone strikes lead a host of ways to disrupt electricity...",
-        category: "technology",
-        source: "IEEE Spectrum",
-        date: "2026-06-30",
-        url: "https://spectrum.ieee.org/power-grid-attack-security-gridex"
-    },
-    {
-        id: 3,
-        title: "Gulf War research from the 1990s has critical lessons for autonomous vehicle safety",
-        excerpt: "Gulf War research from the 1990s has critical lessons for autonomous vehicle safety...",
-        category: "technology",
-        source: "IEEE Spectrum",
-        date: "2026-06-30",
-        url: "https://spectrum.ieee.org/military-drones-self-driving-cars"
-    },
-    {
-        id: 4,
-        title: "Top robot videos — week of 30 January 2026",
+        title: "Airbus says air taxis could become a popular transportation option for urbanites",
         excerpt: "Latest developments in drone technology from IEEE Spectrum.",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-06-30",
-        url: "https://spectrum.ieee.org/multitasking-robot"
+        date: "2026-07-01",
+        url: "https://spectrum.ieee.org/airbus-people-want-and-will-use-air-taxis"
+    },
+    {
+        id: 2,
+        title: "Half a flying robocar",
+        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
+        category: "technology",
+        source: "IEEE Spectrum",
+        date: "2026-07-01",
+        url: "https://spectrum.ieee.org/whats-edgier-than-a-flying-robocar"
+    },
+    {
+        id: 3,
+        title: "Dubai officials say they'll have an autonomous drone taxi service up and running this year, but if they do, we'd suggest that you never ever use it",
+        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
+        category: "technology",
+        source: "IEEE Spectrum",
+        date: "2026-07-01",
+        url: "https://spectrum.ieee.org/an-autonomous-passenger-drone-seems-like-a-terrible-idea"
+    },
+    {
+        id: 4,
+        title: "Fly my pretties! Vans will release and retrieve drones and wheeled cargo bots",
+        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
+        category: "technology",
+        source: "IEEE Spectrum",
+        date: "2026-07-01",
+        url: "https://spectrum.ieee.org/mercedes-tries-to-conquer-the-last-mile-with-cute-delivery-bots"
     }
 ];
 
