@@ -3,43 +3,34 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2026-07-09 01:25:11 UTC
+// Last updated: 2026-07-10 01:22:09 UTC
 const newsData = [
     {
         id: 1,
-        title: "A chip-to-cloud assurance architecture enabling secure, resilient, and safe autonomy across robots, sensors, and humans.",
-        excerpt: "A chip-to-cloud assurance architecture enabling secure, resilient, and safe autonomy across robots, sensors, and humans....",
-        category: "technology",
-        source: "IEEE Spectrum",
-        date: "2026-07-09",
-        url: "https://content.knowledgehub.wiley.com/goztasp-a-zero-trust-platform-for-governing-autonomous-systems-at-mission-scale/"
-    },
-    {
-        id: 2,
-        title: "Drone strikes lead a host of ways to disrupt electricity",
-        excerpt: "Drone strikes lead a host of ways to disrupt electricity...",
-        category: "technology",
-        source: "IEEE Spectrum",
-        date: "2026-07-09",
-        url: "https://spectrum.ieee.org/power-grid-attack-security-gridex"
-    },
-    {
-        id: 3,
-        title: "Gulf War research from the 1990s has critical lessons for autonomous vehicle safety",
-        excerpt: "Gulf War research from the 1990s has critical lessons for autonomous vehicle safety...",
-        category: "technology",
-        source: "IEEE Spectrum",
-        date: "2026-07-09",
-        url: "https://spectrum.ieee.org/military-drones-self-driving-cars"
-    },
-    {
-        id: 4,
-        title: "Top robot videos — week of 30 January 2026",
+        title: "Simulations suggest that the approach can achieve early wildfire detection with 99 percent accuracy",
         excerpt: "Latest developments in drone technology from IEEE Spectrum.",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-07-09",
-        url: "https://spectrum.ieee.org/multitasking-robot"
+        date: "2026-07-10",
+        url: "https://spectrum.ieee.org/drones-sensors-wildfire-detection"
+    },
+    {
+        id: 2,
+        title: "Drones or airplanes might be able to quickly map seafloors and inspect shipwrecks using the photoacoustic method",
+        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
+        category: "technology",
+        source: "IEEE Spectrum",
+        date: "2026-07-10",
+        url: "https://spectrum.ieee.org/lightdriven-sonar-could-survey-the-oceans-from-the-air"
+    },
+    {
+        id: 3,
+        title: "A new approach allows unmanned aerial vehicles to deliver power wirelessly to remote sensors",
+        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
+        category: "technology",
+        source: "IEEE Spectrum",
+        date: "2026-07-10",
+        url: "https://spectrum.ieee.org/uavs-prove-usefuldelivering-remote-power-charging-services"
     }
 ];
 
