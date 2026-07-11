@@ -3,34 +3,43 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2026-07-10 01:22:09 UTC
+// Last updated: 2026-07-11 01:15:52 UTC
 const newsData = [
     {
         id: 1,
-        title: "Simulations suggest that the approach can achieve early wildfire detection with 99 percent accuracy",
-        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
+        title: "Taiwan doubles down on its Silicon Shield strategy while the U.S. promises a storm of drones",
+        excerpt: "Taiwan doubles down on its Silicon Shield strategy while the U.S. promises a storm of drones...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-07-10",
-        url: "https://spectrum.ieee.org/drones-sensors-wildfire-detection"
+        date: "2026-07-11",
+        url: "https://spectrum.ieee.org/taiwan-silicon-shield"
     },
     {
         id: 2,
-        title: "Drones or airplanes might be able to quickly map seafloors and inspect shipwrecks using the photoacoustic method",
+        title: "Intel and academic groups are designing specialized hardware to speed path planning and other aspects of robot coordination",
         excerpt: "Latest developments in drone technology from IEEE Spectrum.",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-07-10",
-        url: "https://spectrum.ieee.org/lightdriven-sonar-could-survey-the-oceans-from-the-air"
+        date: "2026-07-11",
+        url: "https://spectrum.ieee.org/3-new-chips-to-help-robots-find-their-way-around"
     },
     {
         id: 3,
-        title: "A new approach allows unmanned aerial vehicles to deliver power wirelessly to remote sensors",
+        title: "A research team tries to turn bees into living drones by gluing wireless sensor platforms to their backs",
         excerpt: "Latest developments in drone technology from IEEE Spectrum.",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-07-10",
-        url: "https://spectrum.ieee.org/uavs-prove-usefuldelivering-remote-power-charging-services"
+        date: "2026-07-11",
+        url: "https://spectrum.ieee.org/bee-drones"
+    },
+    {
+        id: 4,
+        title: "Smaller than a dime and with no moving parts, MIT's lidar-on-a-chip is exactly what cars and robots need",
+        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
+        category: "technology",
+        source: "IEEE Spectrum",
+        date: "2026-07-11",
+        url: "https://spectrum.ieee.org/mit-lidar-on-a-chip"
     }
 ];
 
