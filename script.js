@@ -3,43 +3,43 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2026-07-11 01:15:52 UTC
+// Last updated: 2026-07-14 01:08:35 UTC
 const newsData = [
     {
         id: 1,
-        title: "Taiwan doubles down on its Silicon Shield strategy while the U.S. promises a storm of drones",
-        excerpt: "Taiwan doubles down on its Silicon Shield strategy while the U.S. promises a storm of drones...",
+        title: "A chip-to-cloud assurance architecture enabling secure, resilient, and safe autonomy across robots, sensors, and humans.",
+        excerpt: "A chip-to-cloud assurance architecture enabling secure, resilient, and safe autonomy across robots, sensors, and humans....",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-07-11",
-        url: "https://spectrum.ieee.org/taiwan-silicon-shield"
+        date: "2026-07-14",
+        url: "https://content.knowledgehub.wiley.com/goztasp-a-zero-trust-platform-for-governing-autonomous-systems-at-mission-scale/"
     },
     {
         id: 2,
-        title: "Intel and academic groups are designing specialized hardware to speed path planning and other aspects of robot coordination",
-        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
+        title: "Drone strikes lead a host of ways to disrupt electricity",
+        excerpt: "Drone strikes lead a host of ways to disrupt electricity...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-07-11",
-        url: "https://spectrum.ieee.org/3-new-chips-to-help-robots-find-their-way-around"
+        date: "2026-07-14",
+        url: "https://spectrum.ieee.org/power-grid-attack-security-gridex"
     },
     {
         id: 3,
-        title: "A research team tries to turn bees into living drones by gluing wireless sensor platforms to their backs",
-        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
+        title: "Gulf War research from the 1990s has critical lessons for autonomous vehicle safety",
+        excerpt: "Gulf War research from the 1990s has critical lessons for autonomous vehicle safety...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-07-11",
-        url: "https://spectrum.ieee.org/bee-drones"
+        date: "2026-07-14",
+        url: "https://spectrum.ieee.org/military-drones-self-driving-cars"
     },
     {
         id: 4,
-        title: "Smaller than a dime and with no moving parts, MIT's lidar-on-a-chip is exactly what cars and robots need",
+        title: "Top robot videos — week of 30 January 2026",
         excerpt: "Latest developments in drone technology from IEEE Spectrum.",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-07-11",
-        url: "https://spectrum.ieee.org/mit-lidar-on-a-chip"
+        date: "2026-07-14",
+        url: "https://spectrum.ieee.org/multitasking-robot"
     }
 ];
 
