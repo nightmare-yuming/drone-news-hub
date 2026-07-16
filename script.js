@@ -3,43 +3,43 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2026-07-15 01:05:59 UTC
+// Last updated: 2026-07-16 01:14:48 UTC
 const newsData = [
     {
         id: 1,
-        title: "A chip-to-cloud assurance architecture enabling secure, resilient, and safe autonomy across robots, sensors, and humans.",
-        excerpt: "A chip-to-cloud assurance architecture enabling secure, resilient, and safe autonomy across robots, sensors, and humans....",
-        category: "technology",
-        source: "IEEE Spectrum",
-        date: "2026-07-15",
-        url: "https://content.knowledgehub.wiley.com/goztasp-a-zero-trust-platform-for-governing-autonomous-systems-at-mission-scale/"
-    },
-    {
-        id: 2,
-        title: "Drone strikes lead a host of ways to disrupt electricity",
-        excerpt: "Drone strikes lead a host of ways to disrupt electricity...",
-        category: "technology",
-        source: "IEEE Spectrum",
-        date: "2026-07-15",
-        url: "https://spectrum.ieee.org/power-grid-attack-security-gridex"
-    },
-    {
-        id: 3,
-        title: "Gulf War research from the 1990s has critical lessons for autonomous vehicle safety",
-        excerpt: "Gulf War research from the 1990s has critical lessons for autonomous vehicle safety...",
-        category: "technology",
-        source: "IEEE Spectrum",
-        date: "2026-07-15",
-        url: "https://spectrum.ieee.org/military-drones-self-driving-cars"
-    },
-    {
-        id: 4,
         title: "Top robot videos — week of 30 January 2026",
         excerpt: "Latest developments in drone technology from IEEE Spectrum.",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-07-15",
+        date: "2026-07-16",
         url: "https://spectrum.ieee.org/multitasking-robot"
+    },
+    {
+        id: 2,
+        title: "The DARPA Triage Challenge will crown an overall winner in 2026",
+        excerpt: "The DARPA Triage Challenge will crown an overall winner in 2026...",
+        category: "technology",
+        source: "IEEE Spectrum",
+        date: "2026-07-16",
+        url: "https://spectrum.ieee.org/darpa-triage-challenge-robots"
+    },
+    {
+        id: 3,
+        title: "X Prize teams vie to douse disasters in the making",
+        excerpt: "X Prize teams vie to douse disasters in the making...",
+        category: "technology",
+        source: "IEEE Spectrum",
+        date: "2026-07-16",
+        url: "https://spectrum.ieee.org/wildfire-drones"
+    },
+    {
+        id: 4,
+        title: "Top robot videos — week of 14 November 2025",
+        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
+        category: "technology",
+        source: "IEEE Spectrum",
+        date: "2026-07-16",
+        url: "https://spectrum.ieee.org/video-friday-heavy-lift-drones"
     }
 ];
 
