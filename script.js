@@ -3,43 +3,43 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2026-07-20 01:19:03 UTC
+// Last updated: 2026-07-21 01:16:08 UTC
 const newsData = [
     {
         id: 1,
-        title: "Taiwan emerges as alternative to Chinese drone supply chain",
-        excerpt: "Taiwan emerges as alternative to Chinese drone supply chain...",
+        title: "Drones, autonomy, software, and communications lead the roster",
+        excerpt: "Drones, autonomy, software, and communications lead the roster...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-07-20",
-        url: "https://spectrum.ieee.org/taiwan-drone-supply-chain"
+        date: "2026-07-21",
+        url: "https://spectrum.ieee.org/ukraine-weapons"
     },
     {
         id: 2,
-        title: "A chip-to-cloud assurance architecture enabling secure, resilient, and safe autonomy across robots, sensors, and humans.",
-        excerpt: "A chip-to-cloud assurance architecture enabling secure, resilient, and safe autonomy across robots, sensors, and humans....",
+        title: "Killer drones spot landmarks as they fly to their targets",
+        excerpt: "Killer drones spot landmarks as they fly to their targets...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-07-20",
-        url: "https://content.knowledgehub.wiley.com/goztasp-a-zero-trust-platform-for-governing-autonomous-systems-at-mission-scale/"
+        date: "2026-07-21",
+        url: "https://spectrum.ieee.org/ukraine-killer-drones"
     },
     {
         id: 3,
-        title: "Drone strikes lead a host of ways to disrupt electricity",
-        excerpt: "Drone strikes lead a host of ways to disrupt electricity...",
+        title: "Airships are becoming a vital part of the country’s anti-drone efforts",
+        excerpt: "Airships are becoming a vital part of the country’s anti-drone efforts...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-07-20",
-        url: "https://spectrum.ieee.org/power-grid-attack-security-gridex"
+        date: "2026-07-21",
+        url: "https://spectrum.ieee.org/airships-drones-ukraine"
     },
     {
         id: 4,
-        title: "Gulf War research from the 1990s has critical lessons for autonomous vehicle safety",
-        excerpt: "Gulf War research from the 1990s has critical lessons for autonomous vehicle safety...",
+        title: "High-end positioning tech comes to low-cost UAVs",
+        excerpt: "High-end positioning tech comes to low-cost UAVs...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-07-20",
-        url: "https://spectrum.ieee.org/military-drones-self-driving-cars"
+        date: "2026-07-21",
+        url: "https://spectrum.ieee.org/drone-gps-alternatives"
     }
 ];
 
