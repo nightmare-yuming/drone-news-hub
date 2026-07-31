@@ -3,43 +3,43 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2026-07-29 01:16:00 UTC
+// Last updated: 2026-07-31 01:21:55 UTC
 const newsData = [
     {
         id: 1,
-        title: "Taiwan emerges as alternative to Chinese drone supply chain",
-        excerpt: "Taiwan emerges as alternative to Chinese drone supply chain...",
+        title: "Medical drones arrived 90 to 120 seconds faster than an ambulance during tests conducted with fake patients placed in Iraq's busy city streets",
+        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-07-29",
-        url: "https://spectrum.ieee.org/taiwan-drone-supply-chain"
+        date: "2026-07-31",
+        url: "https://spectrum.ieee.org/drone-vs-ambulance-drone-wins"
     },
     {
         id: 2,
-        title: "A chip-to-cloud assurance architecture enabling secure, resilient, and safe autonomy across robots, sensors, and humans.",
-        excerpt: "A chip-to-cloud assurance architecture enabling secure, resilient, and safe autonomy across robots, sensors, and humans....",
+        title: "For real and simulated drones, piloting with torso movements outperforms a joystick every time—and it’s easier to learn",
+        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-07-29",
-        url: "https://content.knowledgehub.wiley.com/goztasp-a-zero-trust-platform-for-governing-autonomous-systems-at-mission-scale/"
+        date: "2026-07-31",
+        url: "https://spectrum.ieee.org/flying-a-drone-with-your-body"
     },
     {
         id: 3,
-        title: "Drone strikes lead a host of ways to disrupt electricity",
-        excerpt: "Drone strikes lead a host of ways to disrupt electricity...",
+        title: "In Vanuatu, delivery drones will fly vaccines to isolated villages beginning in September",
+        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-07-29",
-        url: "https://spectrum.ieee.org/power-grid-attack-security-gridex"
+        date: "2026-07-31",
+        url: "https://spectrum.ieee.org/drone-delivery-becomes-a-reality-in-remote-pacific-islands"
     },
     {
         id: 4,
-        title: "Gulf War research from the 1990s has critical lessons for autonomous vehicle safety",
-        excerpt: "Gulf War research from the 1990s has critical lessons for autonomous vehicle safety...",
+        title: "In Rwanda, the drone delivery startup Zipline is now bringing blood across mountains",
+        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-07-29",
-        url: "https://spectrum.ieee.org/military-drones-self-driving-cars"
+        date: "2026-07-31",
+        url: "https://spectrum.ieee.org/when-drone-delivery-makes-sense-when-youre-flying-lifesaving-blood-to-hospitals"
     }
 ];
 
