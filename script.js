@@ -3,43 +3,43 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2026-07-31 01:21:55 UTC
+// Last updated: 2026-08-01 01:23:12 UTC
 const newsData = [
     {
         id: 1,
-        title: "Medical drones arrived 90 to 120 seconds faster than an ambulance during tests conducted with fake patients placed in Iraq's busy city streets",
-        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
+        title: "The Spatial Web standard connects devices, robots, and AI agents",
+        excerpt: "The Spatial Web standard connects devices, robots, and AI agents...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-07-31",
-        url: "https://spectrum.ieee.org/drone-vs-ambulance-drone-wins"
+        date: "2026-08-01",
+        url: "https://spectrum.ieee.org/spatial-web-standard"
     },
     {
         id: 2,
-        title: "For real and simulated drones, piloting with torso movements outperforms a joystick every time—and it’s easier to learn",
-        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
+        title: "Drones and situation rooms inform responses to floods and cyclones",
+        excerpt: "Drones and situation rooms inform responses to floods and cyclones...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-07-31",
-        url: "https://spectrum.ieee.org/flying-a-drone-with-your-body"
+        date: "2026-08-01",
+        url: "https://spectrum.ieee.org/disaster-response-tech-mozambique"
     },
     {
         id: 3,
-        title: "In Vanuatu, delivery drones will fly vaccines to isolated villages beginning in September",
-        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
+        title: "Telecom companies say 5G offers lower latency and better security",
+        excerpt: "Telecom companies say 5G offers lower latency and better security...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-07-31",
-        url: "https://spectrum.ieee.org/drone-delivery-becomes-a-reality-in-remote-pacific-islands"
+        date: "2026-08-01",
+        url: "https://spectrum.ieee.org/private-5g-vodafone"
     },
     {
         id: 4,
-        title: "In Rwanda, the drone delivery startup Zipline is now bringing blood across mountains",
+        title: "In a series of experiments, researchers showed how to intercept transmissions and hoist control of popular Internet of Things devices",
         excerpt: "Latest developments in drone technology from IEEE Spectrum.",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-07-31",
-        url: "https://spectrum.ieee.org/when-drone-delivery-makes-sense-when-youre-flying-lifesaving-blood-to-hospitals"
+        date: "2026-08-01",
+        url: "https://spectrum.ieee.org/iot-security-risks-drones-vibrators-iot-devices-kids-toys-vulnerable-to-hacking"
     }
 ];
 
