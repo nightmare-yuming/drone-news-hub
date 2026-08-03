@@ -3,43 +3,43 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2026-08-01 01:23:12 UTC
+// Last updated: 2026-08-03 01:21:20 UTC
 const newsData = [
     {
         id: 1,
-        title: "The Spatial Web standard connects devices, robots, and AI agents",
-        excerpt: "The Spatial Web standard connects devices, robots, and AI agents...",
+        title: "Computational design generates a spinning drone that’s nearly transparent",
+        excerpt: "Computational design generates a spinning drone that’s nearly transparent...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-08-01",
-        url: "https://spectrum.ieee.org/spatial-web-standard"
+        date: "2026-08-03",
+        url: "https://spectrum.ieee.org/invisible-spinning-drone"
     },
     {
         id: 2,
-        title: "Drones and situation rooms inform responses to floods and cyclones",
-        excerpt: "Drones and situation rooms inform responses to floods and cyclones...",
+        title: "Taiwan emerges as alternative to Chinese drone supply chain",
+        excerpt: "Taiwan emerges as alternative to Chinese drone supply chain...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-08-01",
-        url: "https://spectrum.ieee.org/disaster-response-tech-mozambique"
+        date: "2026-08-03",
+        url: "https://spectrum.ieee.org/taiwan-drone-supply-chain"
     },
     {
         id: 3,
-        title: "Telecom companies say 5G offers lower latency and better security",
-        excerpt: "Telecom companies say 5G offers lower latency and better security...",
+        title: "A chip-to-cloud assurance architecture enabling secure, resilient, and safe autonomy across robots, sensors, and humans.",
+        excerpt: "A chip-to-cloud assurance architecture enabling secure, resilient, and safe autonomy across robots, sensors, and humans....",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-08-01",
-        url: "https://spectrum.ieee.org/private-5g-vodafone"
+        date: "2026-08-03",
+        url: "https://content.knowledgehub.wiley.com/goztasp-a-zero-trust-platform-for-governing-autonomous-systems-at-mission-scale/"
     },
     {
         id: 4,
-        title: "In a series of experiments, researchers showed how to intercept transmissions and hoist control of popular Internet of Things devices",
-        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
+        title: "Drone strikes lead a host of ways to disrupt electricity",
+        excerpt: "Drone strikes lead a host of ways to disrupt electricity...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-08-01",
-        url: "https://spectrum.ieee.org/iot-security-risks-drones-vibrators-iot-devices-kids-toys-vulnerable-to-hacking"
+        date: "2026-08-03",
+        url: "https://spectrum.ieee.org/power-grid-attack-security-gridex"
     }
 ];
 
