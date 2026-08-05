@@ -3,34 +3,43 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2026-08-04 01:12:55 UTC
+// Last updated: 2026-08-05 01:13:58 UTC
 const newsData = [
     {
         id: 1,
-        title: "Simulations suggest that the approach can achieve early wildfire detection with 99 percent accuracy",
-        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
+        title: "Taiwan emerges as alternative to Chinese drone supply chain",
+        excerpt: "Taiwan emerges as alternative to Chinese drone supply chain...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-08-04",
-        url: "https://spectrum.ieee.org/drones-sensors-wildfire-detection"
+        date: "2026-08-05",
+        url: "https://spectrum.ieee.org/taiwan-drone-supply-chain"
     },
     {
         id: 2,
-        title: "Drones or airplanes might be able to quickly map seafloors and inspect shipwrecks using the photoacoustic method",
-        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
+        title: "Drones, autonomy, software, and communications lead the roster",
+        excerpt: "Drones, autonomy, software, and communications lead the roster...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-08-04",
-        url: "https://spectrum.ieee.org/lightdriven-sonar-could-survey-the-oceans-from-the-air"
+        date: "2026-08-05",
+        url: "https://spectrum.ieee.org/ukraine-weapons"
     },
     {
         id: 3,
-        title: "A new approach allows unmanned aerial vehicles to deliver power wirelessly to remote sensors",
-        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
+        title: "Killer drones spot landmarks as they fly to their targets",
+        excerpt: "Killer drones spot landmarks as they fly to their targets...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-08-04",
-        url: "https://spectrum.ieee.org/uavs-prove-usefuldelivering-remote-power-charging-services"
+        date: "2026-08-05",
+        url: "https://spectrum.ieee.org/ukraine-killer-drones"
+    },
+    {
+        id: 4,
+        title: "Airships are becoming a vital part of the country’s anti-drone efforts",
+        excerpt: "Airships are becoming a vital part of the country’s anti-drone efforts...",
+        category: "technology",
+        source: "IEEE Spectrum",
+        date: "2026-08-05",
+        url: "https://spectrum.ieee.org/airships-drones-ukraine"
     }
 ];
 
