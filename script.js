@@ -3,7 +3,7 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2026-08-06 01:11:26 UTC
+// Last updated: 2026-08-07 01:55:12 UTC
 const newsData = [
     {
         id: 1,
@@ -11,7 +11,7 @@ const newsData = [
         excerpt: "This week’s selection of awesome robot videos includes robot shadow puppets and golden eagles toying with a drone...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-08-06",
+        date: "2026-08-07",
         url: "https://spectrum.ieee.org/video-robot-gemini2-ai-robot"
     },
     {
@@ -20,7 +20,7 @@ const newsData = [
         excerpt: "Computational design generates a spinning drone that’s nearly transparent...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-08-06",
+        date: "2026-08-07",
         url: "https://spectrum.ieee.org/invisible-spinning-drone"
     },
     {
@@ -29,7 +29,7 @@ const newsData = [
         excerpt: "Taiwan emerges as alternative to Chinese drone supply chain...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-08-06",
+        date: "2026-08-07",
         url: "https://spectrum.ieee.org/taiwan-drone-supply-chain"
     },
     {
@@ -38,7 +38,7 @@ const newsData = [
         excerpt: "A chip-to-cloud assurance architecture enabling secure, resilient, and safe autonomy across robots, sensors, and humans....",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-08-06",
+        date: "2026-08-07",
         url: "https://content.knowledgehub.wiley.com/goztasp-a-zero-trust-platform-for-governing-autonomous-systems-at-mission-scale/"
     }
 ];
