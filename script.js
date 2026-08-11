@@ -3,43 +3,43 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2026-08-10 00:41:59 UTC
+// Last updated: 2026-08-11 00:41:47 UTC
 const newsData = [
     {
         id: 1,
-        title: "Taiwan doubles down on its Silicon Shield strategy while the U.S. promises a storm of drones",
-        excerpt: "Taiwan doubles down on its Silicon Shield strategy while the U.S. promises a storm of drones...",
+        title: "This week’s selection of awesome robot videos includes robot shadow puppets and golden eagles toying with a drone",
+        excerpt: "This week’s selection of awesome robot videos includes robot shadow puppets and golden eagles toying with a drone...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-08-10",
-        url: "https://spectrum.ieee.org/taiwan-silicon-shield"
+        date: "2026-08-11",
+        url: "https://spectrum.ieee.org/video-robot-gemini2-ai-robot"
     },
     {
         id: 2,
-        title: "Intel and academic groups are designing specialized hardware to speed path planning and other aspects of robot coordination",
-        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
+        title: "Computational design generates a spinning drone that’s nearly transparent",
+        excerpt: "Computational design generates a spinning drone that’s nearly transparent...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-08-10",
-        url: "https://spectrum.ieee.org/3-new-chips-to-help-robots-find-their-way-around"
+        date: "2026-08-11",
+        url: "https://spectrum.ieee.org/invisible-spinning-drone"
     },
     {
         id: 3,
-        title: "A research team tries to turn bees into living drones by gluing wireless sensor platforms to their backs",
-        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
+        title: "Taiwan emerges as alternative to Chinese drone supply chain",
+        excerpt: "Taiwan emerges as alternative to Chinese drone supply chain...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-08-10",
-        url: "https://spectrum.ieee.org/bee-drones"
+        date: "2026-08-11",
+        url: "https://spectrum.ieee.org/taiwan-drone-supply-chain"
     },
     {
         id: 4,
-        title: "Smaller than a dime and with no moving parts, MIT's lidar-on-a-chip is exactly what cars and robots need",
-        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
+        title: "A chip-to-cloud assurance architecture enabling secure, resilient, and safe autonomy across robots, sensors, and humans.",
+        excerpt: "A chip-to-cloud assurance architecture enabling secure, resilient, and safe autonomy across robots, sensors, and humans....",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-08-10",
-        url: "https://spectrum.ieee.org/mit-lidar-on-a-chip"
+        date: "2026-08-11",
+        url: "https://content.knowledgehub.wiley.com/goztasp-a-zero-trust-platform-for-governing-autonomous-systems-at-mission-scale/"
     }
 ];
 
