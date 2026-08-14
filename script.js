@@ -3,43 +3,43 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2026-08-13 00:50:00 UTC
+// Last updated: 2026-08-14 00:49:37 UTC
 const newsData = [
     {
         id: 1,
-        title: "This week’s selection of awesome robot videos includes robot shadow puppets and golden eagles toying with a drone",
-        excerpt: "This week’s selection of awesome robot videos includes robot shadow puppets and golden eagles toying with a drone...",
+        title: "Combining drones and machine learning to demine Ukrainian battlefields",
+        excerpt: "Combining drones and machine learning to demine Ukrainian battlefields...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-08-13",
-        url: "https://spectrum.ieee.org/video-robot-gemini2-ai-robot"
+        date: "2026-08-14",
+        url: "https://spectrum.ieee.org/clear-land-mines-drones-ai"
     },
     {
         id: 2,
-        title: "Computational design generates a spinning drone that’s nearly transparent",
-        excerpt: "Computational design generates a spinning drone that’s nearly transparent...",
+        title: "This startup is reinventing the process of demining",
+        excerpt: "This startup is reinventing the process of demining...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-08-13",
-        url: "https://spectrum.ieee.org/invisible-spinning-drone"
+        date: "2026-08-14",
+        url: "https://spectrum.ieee.org/ukraine-drones"
     },
     {
         id: 3,
-        title: "Taiwan emerges as alternative to Chinese drone supply chain",
-        excerpt: "Taiwan emerges as alternative to Chinese drone supply chain...",
+        title: "Senseiver brings AI closer to the edge",
+        excerpt: "Senseiver brings AI closer to the edge...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-08-13",
-        url: "https://spectrum.ieee.org/taiwan-drone-supply-chain"
+        date: "2026-08-14",
+        url: "https://spectrum.ieee.org/orphan-wells"
     },
     {
         id: 4,
-        title: "A chip-to-cloud assurance architecture enabling secure, resilient, and safe autonomy across robots, sensors, and humans.",
-        excerpt: "A chip-to-cloud assurance architecture enabling secure, resilient, and safe autonomy across robots, sensors, and humans....",
+        title: "Drones equipped with liquid neural networks edged out other AI systems when navigating unknown territory",
+        excerpt: "Drones equipped with liquid neural networks edged out other AI systems when navigating unknown territory...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-08-13",
-        url: "https://content.knowledgehub.wiley.com/goztasp-a-zero-trust-platform-for-governing-autonomous-systems-at-mission-scale/"
+        date: "2026-08-14",
+        url: "https://spectrum.ieee.org/liquid-neural-networks"
     }
 ];
 
