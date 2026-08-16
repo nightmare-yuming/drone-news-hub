@@ -3,43 +3,43 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2026-08-15 00:27:36 UTC
+// Last updated: 2026-08-16 00:28:04 UTC
 const newsData = [
     {
         id: 1,
-        title: "This week’s selection of awesome robot videos includes robot shadow puppets and golden eagles toying with a drone",
-        excerpt: "This week’s selection of awesome robot videos includes robot shadow puppets and golden eagles toying with a drone...",
+        title: "Medical drones arrived 90 to 120 seconds faster than an ambulance during tests conducted with fake patients placed in Iraq's busy city streets",
+        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-08-15",
-        url: "https://spectrum.ieee.org/video-robot-gemini2-ai-robot"
+        date: "2026-08-16",
+        url: "https://spectrum.ieee.org/drone-vs-ambulance-drone-wins"
     },
     {
         id: 2,
-        title: "Computational design generates a spinning drone that’s nearly transparent",
-        excerpt: "Computational design generates a spinning drone that’s nearly transparent...",
+        title: "For real and simulated drones, piloting with torso movements outperforms a joystick every time—and it’s easier to learn",
+        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-08-15",
-        url: "https://spectrum.ieee.org/invisible-spinning-drone"
+        date: "2026-08-16",
+        url: "https://spectrum.ieee.org/flying-a-drone-with-your-body"
     },
     {
         id: 3,
-        title: "Taiwan emerges as alternative to Chinese drone supply chain",
-        excerpt: "Taiwan emerges as alternative to Chinese drone supply chain...",
+        title: "In Vanuatu, delivery drones will fly vaccines to isolated villages beginning in September",
+        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-08-15",
-        url: "https://spectrum.ieee.org/taiwan-drone-supply-chain"
+        date: "2026-08-16",
+        url: "https://spectrum.ieee.org/drone-delivery-becomes-a-reality-in-remote-pacific-islands"
     },
     {
         id: 4,
-        title: "A chip-to-cloud assurance architecture enabling secure, resilient, and safe autonomy across robots, sensors, and humans.",
-        excerpt: "A chip-to-cloud assurance architecture enabling secure, resilient, and safe autonomy across robots, sensors, and humans....",
+        title: "In Rwanda, the drone delivery startup Zipline is now bringing blood across mountains",
+        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-08-15",
-        url: "https://content.knowledgehub.wiley.com/goztasp-a-zero-trust-platform-for-governing-autonomous-systems-at-mission-scale/"
+        date: "2026-08-16",
+        url: "https://spectrum.ieee.org/when-drone-delivery-makes-sense-when-youre-flying-lifesaving-blood-to-hospitals"
     }
 ];
 
