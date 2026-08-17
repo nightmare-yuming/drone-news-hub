@@ -3,7 +3,7 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2026-08-16 00:28:04 UTC
+// Last updated: 2026-08-17 00:26:03 UTC
 const newsData = [
     {
         id: 1,
@@ -11,7 +11,7 @@ const newsData = [
         excerpt: "Latest developments in drone technology from IEEE Spectrum.",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-08-16",
+        date: "2026-08-17",
         url: "https://spectrum.ieee.org/drone-vs-ambulance-drone-wins"
     },
     {
@@ -20,7 +20,7 @@ const newsData = [
         excerpt: "Latest developments in drone technology from IEEE Spectrum.",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-08-16",
+        date: "2026-08-17",
         url: "https://spectrum.ieee.org/flying-a-drone-with-your-body"
     },
     {
@@ -29,7 +29,7 @@ const newsData = [
         excerpt: "Latest developments in drone technology from IEEE Spectrum.",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-08-16",
+        date: "2026-08-17",
         url: "https://spectrum.ieee.org/drone-delivery-becomes-a-reality-in-remote-pacific-islands"
     },
     {
@@ -38,7 +38,7 @@ const newsData = [
         excerpt: "Latest developments in drone technology from IEEE Spectrum.",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-08-16",
+        date: "2026-08-17",
         url: "https://spectrum.ieee.org/when-drone-delivery-makes-sense-when-youre-flying-lifesaving-blood-to-hospitals"
     }
 ];
