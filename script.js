@@ -3,43 +3,43 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2026-08-17 00:26:03 UTC
+// Last updated: 2026-08-18 00:26:13 UTC
 const newsData = [
     {
         id: 1,
-        title: "Medical drones arrived 90 to 120 seconds faster than an ambulance during tests conducted with fake patients placed in Iraq's busy city streets",
-        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
+        title: "Taiwan emerges as alternative to Chinese drone supply chain",
+        excerpt: "Taiwan emerges as alternative to Chinese drone supply chain...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-08-17",
-        url: "https://spectrum.ieee.org/drone-vs-ambulance-drone-wins"
+        date: "2026-08-18",
+        url: "https://spectrum.ieee.org/taiwan-drone-supply-chain"
     },
     {
         id: 2,
-        title: "For real and simulated drones, piloting with torso movements outperforms a joystick every time—and it’s easier to learn",
-        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
+        title: "Drones, autonomy, software, and communications lead the roster",
+        excerpt: "Drones, autonomy, software, and communications lead the roster...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-08-17",
-        url: "https://spectrum.ieee.org/flying-a-drone-with-your-body"
+        date: "2026-08-18",
+        url: "https://spectrum.ieee.org/ukraine-weapons"
     },
     {
         id: 3,
-        title: "In Vanuatu, delivery drones will fly vaccines to isolated villages beginning in September",
-        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
+        title: "Killer drones spot landmarks as they fly to their targets",
+        excerpt: "Killer drones spot landmarks as they fly to their targets...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-08-17",
-        url: "https://spectrum.ieee.org/drone-delivery-becomes-a-reality-in-remote-pacific-islands"
+        date: "2026-08-18",
+        url: "https://spectrum.ieee.org/ukraine-killer-drones"
     },
     {
         id: 4,
-        title: "In Rwanda, the drone delivery startup Zipline is now bringing blood across mountains",
-        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
+        title: "Airships are becoming a vital part of the country’s anti-drone efforts",
+        excerpt: "Airships are becoming a vital part of the country’s anti-drone efforts...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-08-17",
-        url: "https://spectrum.ieee.org/when-drone-delivery-makes-sense-when-youre-flying-lifesaving-blood-to-hospitals"
+        date: "2026-08-18",
+        url: "https://spectrum.ieee.org/airships-drones-ukraine"
     }
 ];
 
