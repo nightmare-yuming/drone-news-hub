@@ -3,43 +3,43 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2026-08-18 00:26:13 UTC
+// Last updated: 2026-08-19 00:26:23 UTC
 const newsData = [
     {
         id: 1,
+        title: "This week’s selection of awesome robot videos includes robot shadow puppets and golden eagles toying with a drone",
+        excerpt: "This week’s selection of awesome robot videos includes robot shadow puppets and golden eagles toying with a drone...",
+        category: "technology",
+        source: "IEEE Spectrum",
+        date: "2026-08-19",
+        url: "https://spectrum.ieee.org/video-robot-gemini2-ai-robot"
+    },
+    {
+        id: 2,
+        title: "Computational design generates a spinning drone that’s nearly transparent",
+        excerpt: "Computational design generates a spinning drone that’s nearly transparent...",
+        category: "technology",
+        source: "IEEE Spectrum",
+        date: "2026-08-19",
+        url: "https://spectrum.ieee.org/invisible-spinning-drone"
+    },
+    {
+        id: 3,
         title: "Taiwan emerges as alternative to Chinese drone supply chain",
         excerpt: "Taiwan emerges as alternative to Chinese drone supply chain...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-08-18",
+        date: "2026-08-19",
         url: "https://spectrum.ieee.org/taiwan-drone-supply-chain"
     },
     {
-        id: 2,
-        title: "Drones, autonomy, software, and communications lead the roster",
-        excerpt: "Drones, autonomy, software, and communications lead the roster...",
-        category: "technology",
-        source: "IEEE Spectrum",
-        date: "2026-08-18",
-        url: "https://spectrum.ieee.org/ukraine-weapons"
-    },
-    {
-        id: 3,
-        title: "Killer drones spot landmarks as they fly to their targets",
-        excerpt: "Killer drones spot landmarks as they fly to their targets...",
-        category: "technology",
-        source: "IEEE Spectrum",
-        date: "2026-08-18",
-        url: "https://spectrum.ieee.org/ukraine-killer-drones"
-    },
-    {
         id: 4,
-        title: "Airships are becoming a vital part of the country’s anti-drone efforts",
-        excerpt: "Airships are becoming a vital part of the country’s anti-drone efforts...",
+        title: "A chip-to-cloud assurance architecture enabling secure, resilient, and safe autonomy across robots, sensors, and humans.",
+        excerpt: "A chip-to-cloud assurance architecture enabling secure, resilient, and safe autonomy across robots, sensors, and humans....",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-08-18",
-        url: "https://spectrum.ieee.org/airships-drones-ukraine"
+        date: "2026-08-19",
+        url: "https://content.knowledgehub.wiley.com/goztasp-a-zero-trust-platform-for-governing-autonomous-systems-at-mission-scale/"
     }
 ];
 
