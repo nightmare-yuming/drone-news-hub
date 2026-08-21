@@ -3,43 +3,34 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2026-08-20 00:27:05 UTC
+// Last updated: 2026-08-21 00:29:16 UTC
 const newsData = [
     {
         id: 1,
-        title: "Researchers in China test a perovskite receiver for in-flight power delivery",
-        excerpt: "Researchers in China test a perovskite receiver for in-flight power delivery...",
+        title: "Simulations suggest that the approach can achieve early wildfire detection with 99 percent accuracy",
+        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-08-20",
-        url: "https://spectrum.ieee.org/drones-wireless-charging-lasers-flight"
+        date: "2026-08-21",
+        url: "https://spectrum.ieee.org/drones-sensors-wildfire-detection"
     },
     {
         id: 2,
-        title: "This week’s selection of awesome robot videos includes robot shadow puppets and golden eagles toying with a drone",
-        excerpt: "This week’s selection of awesome robot videos includes robot shadow puppets and golden eagles toying with a drone...",
+        title: "Drones or airplanes might be able to quickly map seafloors and inspect shipwrecks using the photoacoustic method",
+        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-08-20",
-        url: "https://spectrum.ieee.org/video-robot-gemini2-ai-robot"
+        date: "2026-08-21",
+        url: "https://spectrum.ieee.org/lightdriven-sonar-could-survey-the-oceans-from-the-air"
     },
     {
         id: 3,
-        title: "Computational design generates a spinning drone that’s nearly transparent",
-        excerpt: "Computational design generates a spinning drone that’s nearly transparent...",
+        title: "A new approach allows unmanned aerial vehicles to deliver power wirelessly to remote sensors",
+        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-08-20",
-        url: "https://spectrum.ieee.org/invisible-spinning-drone"
-    },
-    {
-        id: 4,
-        title: "Taiwan emerges as alternative to Chinese drone supply chain",
-        excerpt: "Taiwan emerges as alternative to Chinese drone supply chain...",
-        category: "technology",
-        source: "IEEE Spectrum",
-        date: "2026-08-20",
-        url: "https://spectrum.ieee.org/taiwan-drone-supply-chain"
+        date: "2026-08-21",
+        url: "https://spectrum.ieee.org/uavs-prove-usefuldelivering-remote-power-charging-services"
     }
 ];
 
