@@ -3,43 +3,43 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2026-08-22 00:26:31 UTC
+// Last updated: 2026-08-23 00:28:56 UTC
 const newsData = [
     {
         id: 1,
-        title: "Taiwan doubles down on its Silicon Shield strategy while the U.S. promises a storm of drones",
-        excerpt: "Taiwan doubles down on its Silicon Shield strategy while the U.S. promises a storm of drones...",
+        title: "Grid-scale storage, tumor-busting ultrasound, and more cutting-edge projects are bubbling up this year",
+        excerpt: "Grid-scale storage, tumor-busting ultrasound, and more cutting-edge projects are bubbling up this year...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-08-22",
-        url: "https://spectrum.ieee.org/taiwan-silicon-shield"
+        date: "2026-08-23",
+        url: "https://spectrum.ieee.org/tech-in-2026"
     },
     {
         id: 2,
-        title: "Intel and academic groups are designing specialized hardware to speed path planning and other aspects of robot coordination",
-        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
+        title: "As Ukraine’s energy infrastructure gets pummeled, the nation’s allies have yet to answer desperate calls for support",
+        excerpt: "As Ukraine’s energy infrastructure gets pummeled, the nation’s allies have yet to answer desperate calls for support...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-08-22",
-        url: "https://spectrum.ieee.org/3-new-chips-to-help-robots-find-their-way-around"
+        date: "2026-08-23",
+        url: "https://spectrum.ieee.org/russia-targets-ukraine-grid"
     },
     {
         id: 3,
-        title: "A research team tries to turn bees into living drones by gluing wireless sensor platforms to their backs",
-        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
+        title: "Smart image analysis algorithms, fed by cameras carried by drones and ground vehicles, can help power companies prevent forest fires",
+        excerpt: "Smart image analysis algorithms, fed by cameras carried by drones and ground vehicles, can help power companies prevent forest fires...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-08-22",
-        url: "https://spectrum.ieee.org/bee-drones"
+        date: "2026-08-23",
+        url: "https://spectrum.ieee.org/smokey-the-ai"
     },
     {
         id: 4,
-        title: "Smaller than a dime and with no moving parts, MIT's lidar-on-a-chip is exactly what cars and robots need",
+        title: "A zinc-air battery made partly of Kevlar can be used to support weight, not just add to it",
         excerpt: "Latest developments in drone technology from IEEE Spectrum.",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-08-22",
-        url: "https://spectrum.ieee.org/mit-lidar-on-a-chip"
+        date: "2026-08-23",
+        url: "https://spectrum.ieee.org/a-structural-battery-that-makes-up-the-machine-that-it-powers"
     }
 ];
 
