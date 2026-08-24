@@ -3,7 +3,7 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2026-08-23 00:28:56 UTC
+// Last updated: 2026-08-24 00:28:03 UTC
 const newsData = [
     {
         id: 1,
@@ -11,7 +11,7 @@ const newsData = [
         excerpt: "Grid-scale storage, tumor-busting ultrasound, and more cutting-edge projects are bubbling up this year...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-08-23",
+        date: "2026-08-24",
         url: "https://spectrum.ieee.org/tech-in-2026"
     },
     {
@@ -20,7 +20,7 @@ const newsData = [
         excerpt: "As Ukraine’s energy infrastructure gets pummeled, the nation’s allies have yet to answer desperate calls for support...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-08-23",
+        date: "2026-08-24",
         url: "https://spectrum.ieee.org/russia-targets-ukraine-grid"
     },
     {
@@ -29,7 +29,7 @@ const newsData = [
         excerpt: "Smart image analysis algorithms, fed by cameras carried by drones and ground vehicles, can help power companies prevent forest fires...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-08-23",
+        date: "2026-08-24",
         url: "https://spectrum.ieee.org/smokey-the-ai"
     },
     {
@@ -38,7 +38,7 @@ const newsData = [
         excerpt: "Latest developments in drone technology from IEEE Spectrum.",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-08-23",
+        date: "2026-08-24",
         url: "https://spectrum.ieee.org/a-structural-battery-that-makes-up-the-machine-that-it-powers"
     }
 ];
