@@ -3,43 +3,43 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2026-08-24 00:28:03 UTC
+// Last updated: 2026-08-26 00:28:40 UTC
 const newsData = [
     {
         id: 1,
-        title: "Grid-scale storage, tumor-busting ultrasound, and more cutting-edge projects are bubbling up this year",
-        excerpt: "Grid-scale storage, tumor-busting ultrasound, and more cutting-edge projects are bubbling up this year...",
+        title: "Using its spiny feet, Ice Dart can latch on to glaciers and drifting icebergs, allowing for long-term monitoring",
+        excerpt: "Using its spiny feet, Ice Dart can latch on to glaciers and drifting icebergs, allowing for long-term monitoring...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-08-24",
-        url: "https://spectrum.ieee.org/tech-in-2026"
+        date: "2026-08-26",
+        url: "https://spectrum.ieee.org/arctic-iceberg-drones"
     },
     {
         id: 2,
-        title: "As Ukraine’s energy infrastructure gets pummeled, the nation’s allies have yet to answer desperate calls for support",
-        excerpt: "As Ukraine’s energy infrastructure gets pummeled, the nation’s allies have yet to answer desperate calls for support...",
+        title: "Researchers in China test a perovskite receiver for in-flight power delivery",
+        excerpt: "Researchers in China test a perovskite receiver for in-flight power delivery...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-08-24",
-        url: "https://spectrum.ieee.org/russia-targets-ukraine-grid"
+        date: "2026-08-26",
+        url: "https://spectrum.ieee.org/drones-wireless-charging-lasers-flight"
     },
     {
         id: 3,
-        title: "Smart image analysis algorithms, fed by cameras carried by drones and ground vehicles, can help power companies prevent forest fires",
-        excerpt: "Smart image analysis algorithms, fed by cameras carried by drones and ground vehicles, can help power companies prevent forest fires...",
+        title: "This week’s selection of awesome robot videos includes robot shadow puppets and golden eagles toying with a drone",
+        excerpt: "This week’s selection of awesome robot videos includes robot shadow puppets and golden eagles toying with a drone...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-08-24",
-        url: "https://spectrum.ieee.org/smokey-the-ai"
+        date: "2026-08-26",
+        url: "https://spectrum.ieee.org/video-robot-gemini2-ai-robot"
     },
     {
         id: 4,
-        title: "A zinc-air battery made partly of Kevlar can be used to support weight, not just add to it",
-        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
+        title: "Computational design generates a spinning drone that’s nearly transparent",
+        excerpt: "Computational design generates a spinning drone that’s nearly transparent...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-08-24",
-        url: "https://spectrum.ieee.org/a-structural-battery-that-makes-up-the-machine-that-it-powers"
+        date: "2026-08-26",
+        url: "https://spectrum.ieee.org/invisible-spinning-drone"
     }
 ];
 
