@@ -3,7 +3,7 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2026-08-30 01:52:00 UTC
+// Last updated: 2026-08-31 01:47:07 UTC
 const newsData = [
     {
         id: 1,
@@ -11,7 +11,7 @@ const newsData = [
         excerpt: "Your awesome selection of videos this week shows robots that drum, weld, farm, play soccer, help at home, operate heavy equipment, and more...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-08-30",
+        date: "2026-08-31",
         url: "https://spectrum.ieee.org/video-friday-unitree-superhuman"
     },
     {
@@ -20,7 +20,7 @@ const newsData = [
         excerpt: "Using its spiny feet, Ice Dart can latch on to glaciers and drifting icebergs, allowing for long-term monitoring...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-08-30",
+        date: "2026-08-31",
         url: "https://spectrum.ieee.org/arctic-iceberg-drones"
     },
     {
@@ -29,7 +29,7 @@ const newsData = [
         excerpt: "Researchers in China test a perovskite receiver for in-flight power delivery...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-08-30",
+        date: "2026-08-31",
         url: "https://spectrum.ieee.org/drones-wireless-charging-lasers-flight"
     },
     {
@@ -38,7 +38,7 @@ const newsData = [
         excerpt: "This week’s selection of awesome robot videos includes robot shadow puppets and golden eagles toying with a drone...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-08-30",
+        date: "2026-08-31",
         url: "https://spectrum.ieee.org/video-robot-gemini2-ai-robot"
     }
 ];
