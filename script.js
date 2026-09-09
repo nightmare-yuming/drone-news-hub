@@ -3,43 +3,34 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2026-09-08 01:34:17 UTC
+// Last updated: 2026-09-09 01:42:06 UTC
 const newsData = [
     {
         id: 1,
-        title: "Your awesome selection of videos this week shows robots that drum, weld, farm, play soccer, help at home, operate heavy equipment, and more",
-        excerpt: "Your awesome selection of videos this week shows robots that drum, weld, farm, play soccer, help at home, operate heavy equipment, and more...",
+        title: "Simulations suggest that the approach can achieve early wildfire detection with 99 percent accuracy",
+        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-09-08",
-        url: "https://spectrum.ieee.org/video-friday-unitree-superhuman"
+        date: "2026-09-09",
+        url: "https://spectrum.ieee.org/drones-sensors-wildfire-detection"
     },
     {
         id: 2,
-        title: "Using its spiny feet, Ice Dart can latch on to glaciers and drifting icebergs, allowing for long-term monitoring",
-        excerpt: "Using its spiny feet, Ice Dart can latch on to glaciers and drifting icebergs, allowing for long-term monitoring...",
+        title: "Drones or airplanes might be able to quickly map seafloors and inspect shipwrecks using the photoacoustic method",
+        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-09-08",
-        url: "https://spectrum.ieee.org/arctic-iceberg-drones"
+        date: "2026-09-09",
+        url: "https://spectrum.ieee.org/lightdriven-sonar-could-survey-the-oceans-from-the-air"
     },
     {
         id: 3,
-        title: "Researchers in China test a perovskite receiver for in-flight power delivery",
-        excerpt: "Researchers in China test a perovskite receiver for in-flight power delivery...",
+        title: "A new approach allows unmanned aerial vehicles to deliver power wirelessly to remote sensors",
+        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-09-08",
-        url: "https://spectrum.ieee.org/drones-wireless-charging-lasers-flight"
-    },
-    {
-        id: 4,
-        title: "This week’s selection of awesome robot videos includes robot shadow puppets and golden eagles toying with a drone",
-        excerpt: "This week’s selection of awesome robot videos includes robot shadow puppets and golden eagles toying with a drone...",
-        category: "technology",
-        source: "IEEE Spectrum",
-        date: "2026-09-08",
-        url: "https://spectrum.ieee.org/video-robot-gemini2-ai-robot"
+        date: "2026-09-09",
+        url: "https://spectrum.ieee.org/uavs-prove-usefuldelivering-remote-power-charging-services"
     }
 ];
 
