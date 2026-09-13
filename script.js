@@ -3,43 +3,43 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2026-09-12 01:42:20 UTC
+// Last updated: 2026-09-13 01:32:39 UTC
 const newsData = [
     {
         id: 1,
-        title: "Your awesome selection of videos this week shows robots that drum, weld, farm, play soccer, help at home, operate heavy equipment, and more",
-        excerpt: "Your awesome selection of videos this week shows robots that drum, weld, farm, play soccer, help at home, operate heavy equipment, and more...",
+        title: "Mitsubishi Electric has developed an algorithm that measures inconsistencies in multiple sensors to thwart malicious manipulation",
+        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-09-12",
-        url: "https://spectrum.ieee.org/video-friday-unitree-superhuman"
+        date: "2026-09-13",
+        url: "https://spectrum.ieee.org/new-security-technology-detects-attacks-on-sensors-controlling-numerous-applications-including-drones-cars-and-robots"
     },
     {
         id: 2,
-        title: "Using its spiny feet, Ice Dart can latch on to glaciers and drifting icebergs, allowing for long-term monitoring",
-        excerpt: "Using its spiny feet, Ice Dart can latch on to glaciers and drifting icebergs, allowing for long-term monitoring...",
+        title: "And they have a new piece of hardware—the Jetson TX2—that they hope everyone will use for this edge processing",
+        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-09-12",
-        url: "https://spectrum.ieee.org/arctic-iceberg-drones"
+        date: "2026-09-13",
+        url: "https://spectrum.ieee.org/nvidia-wants-ai-to-get-out-of-the-cloud-into-a-camera-drone-or-other-gadget-near-you"
     },
     {
         id: 3,
-        title: "Researchers in China test a perovskite receiver for in-flight power delivery",
-        excerpt: "Researchers in China test a perovskite receiver for in-flight power delivery...",
+        title: "DARPA shows off all of its cool new toys",
+        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-09-12",
-        url: "https://spectrum.ieee.org/drones-wireless-charging-lasers-flight"
+        date: "2026-09-13",
+        url: "https://spectrum.ieee.org/advanced-research-projects-from-darpas-pentagon-demo-day"
     },
     {
         id: 4,
-        title: "This week’s selection of awesome robot videos includes robot shadow puppets and golden eagles toying with a drone",
-        excerpt: "This week’s selection of awesome robot videos includes robot shadow puppets and golden eagles toying with a drone...",
+        title: "China puts export license restrictions on sales of its supercomputer and drone technologies overseas",
+        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-09-12",
-        url: "https://spectrum.ieee.org/video-robot-gemini2-ai-robot"
+        date: "2026-09-13",
+        url: "https://spectrum.ieee.org/china-tightens-control-on-exports-of-supercomputers-drones"
     }
 ];
 
