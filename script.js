@@ -3,43 +3,43 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2026-09-15 02:00:20 UTC
+// Last updated: 2026-09-16 01:51:09 UTC
 const newsData = [
     {
         id: 1,
-        title: "Hurricane modeling could improve with repurposed tech",
-        excerpt: "Hurricane modeling could improve with repurposed tech...",
+        title: "Airbus says air taxis could become a popular transportation option for urbanites",
+        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-09-15",
-        url: "https://spectrum.ieee.org/earthquake-sensor-hurricanes"
+        date: "2026-09-16",
+        url: "https://spectrum.ieee.org/airbus-people-want-and-will-use-air-taxis"
     },
     {
         id: 2,
-        title: "Your awesome selection of videos this week shows robots that drum, weld, farm, play soccer, help at home, operate heavy equipment, and more",
-        excerpt: "Your awesome selection of videos this week shows robots that drum, weld, farm, play soccer, help at home, operate heavy equipment, and more...",
+        title: "Half a flying robocar",
+        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-09-15",
-        url: "https://spectrum.ieee.org/video-friday-unitree-superhuman"
+        date: "2026-09-16",
+        url: "https://spectrum.ieee.org/whats-edgier-than-a-flying-robocar"
     },
     {
         id: 3,
-        title: "Using its spiny feet, Ice Dart can latch on to glaciers and drifting icebergs, allowing for long-term monitoring",
-        excerpt: "Using its spiny feet, Ice Dart can latch on to glaciers and drifting icebergs, allowing for long-term monitoring...",
+        title: "Dubai officials say they'll have an autonomous drone taxi service up and running this year, but if they do, we'd suggest that you never ever use it",
+        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-09-15",
-        url: "https://spectrum.ieee.org/arctic-iceberg-drones"
+        date: "2026-09-16",
+        url: "https://spectrum.ieee.org/an-autonomous-passenger-drone-seems-like-a-terrible-idea"
     },
     {
         id: 4,
-        title: "Researchers in China test a perovskite receiver for in-flight power delivery",
-        excerpt: "Researchers in China test a perovskite receiver for in-flight power delivery...",
+        title: "Fly my pretties! Vans will release and retrieve drones and wheeled cargo bots",
+        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-09-15",
-        url: "https://spectrum.ieee.org/drones-wireless-charging-lasers-flight"
+        date: "2026-09-16",
+        url: "https://spectrum.ieee.org/mercedes-tries-to-conquer-the-last-mile-with-cute-delivery-bots"
     }
 ];
 
