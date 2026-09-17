@@ -3,43 +3,43 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2026-09-16 01:51:09 UTC
+// Last updated: 2026-09-17 01:55:00 UTC
 const newsData = [
     {
         id: 1,
-        title: "Airbus says air taxis could become a popular transportation option for urbanites",
-        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
+        title: "Hurricane modeling could improve with repurposed tech",
+        excerpt: "Hurricane modeling could improve with repurposed tech...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-09-16",
-        url: "https://spectrum.ieee.org/airbus-people-want-and-will-use-air-taxis"
+        date: "2026-09-17",
+        url: "https://spectrum.ieee.org/earthquake-sensor-hurricanes"
     },
     {
         id: 2,
-        title: "Half a flying robocar",
-        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
+        title: "Your awesome selection of videos this week shows robots that drum, weld, farm, play soccer, help at home, operate heavy equipment, and more",
+        excerpt: "Your awesome selection of videos this week shows robots that drum, weld, farm, play soccer, help at home, operate heavy equipment, and more...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-09-16",
-        url: "https://spectrum.ieee.org/whats-edgier-than-a-flying-robocar"
+        date: "2026-09-17",
+        url: "https://spectrum.ieee.org/video-friday-unitree-superhuman"
     },
     {
         id: 3,
-        title: "Dubai officials say they'll have an autonomous drone taxi service up and running this year, but if they do, we'd suggest that you never ever use it",
-        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
+        title: "Using its spiny feet, Ice Dart can latch on to glaciers and drifting icebergs, allowing for long-term monitoring",
+        excerpt: "Using its spiny feet, Ice Dart can latch on to glaciers and drifting icebergs, allowing for long-term monitoring...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-09-16",
-        url: "https://spectrum.ieee.org/an-autonomous-passenger-drone-seems-like-a-terrible-idea"
+        date: "2026-09-17",
+        url: "https://spectrum.ieee.org/arctic-iceberg-drones"
     },
     {
         id: 4,
-        title: "Fly my pretties! Vans will release and retrieve drones and wheeled cargo bots",
-        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
+        title: "Researchers in China test a perovskite receiver for in-flight power delivery",
+        excerpt: "Researchers in China test a perovskite receiver for in-flight power delivery...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-09-16",
-        url: "https://spectrum.ieee.org/mercedes-tries-to-conquer-the-last-mile-with-cute-delivery-bots"
+        date: "2026-09-17",
+        url: "https://spectrum.ieee.org/drones-wireless-charging-lasers-flight"
     }
 ];
 
