@@ -3,43 +3,43 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2026-09-27 02:00:14 UTC
+// Last updated: 2026-09-28 02:05:42 UTC
 const newsData = [
     {
         id: 1,
-        title: "Hurricane modeling could improve with repurposed tech",
-        excerpt: "Hurricane modeling could improve with repurposed tech...",
-        category: "technology",
-        source: "IEEE Spectrum",
-        date: "2026-09-27",
-        url: "https://spectrum.ieee.org/earthquake-sensor-hurricanes"
-    },
-    {
-        id: 2,
         title: "Your awesome selection of videos this week shows robots that drum, weld, farm, play soccer, help at home, operate heavy equipment, and more",
         excerpt: "Your awesome selection of videos this week shows robots that drum, weld, farm, play soccer, help at home, operate heavy equipment, and more...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-09-27",
+        date: "2026-09-28",
         url: "https://spectrum.ieee.org/video-friday-unitree-superhuman"
     },
     {
-        id: 3,
+        id: 2,
         title: "Using its spiny feet, Ice Dart can latch on to glaciers and drifting icebergs, allowing for long-term monitoring",
         excerpt: "Using its spiny feet, Ice Dart can latch on to glaciers and drifting icebergs, allowing for long-term monitoring...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-09-27",
+        date: "2026-09-28",
         url: "https://spectrum.ieee.org/arctic-iceberg-drones"
     },
     {
-        id: 4,
-        title: "Researchers in China test a perovskite receiver for in-flight power delivery",
-        excerpt: "Researchers in China test a perovskite receiver for in-flight power delivery...",
+        id: 3,
+        title: "This week’s selection of awesome robot videos includes robot shadow puppets and golden eagles toying with a drone",
+        excerpt: "This week’s selection of awesome robot videos includes robot shadow puppets and golden eagles toying with a drone...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-09-27",
-        url: "https://spectrum.ieee.org/drones-wireless-charging-lasers-flight"
+        date: "2026-09-28",
+        url: "https://spectrum.ieee.org/video-robot-gemini2-ai-robot"
+    },
+    {
+        id: 4,
+        title: "Computational design generates a spinning drone that’s nearly transparent",
+        excerpt: "Computational design generates a spinning drone that’s nearly transparent...",
+        category: "technology",
+        source: "IEEE Spectrum",
+        date: "2026-09-28",
+        url: "https://spectrum.ieee.org/invisible-spinning-drone"
     }
 ];
 
