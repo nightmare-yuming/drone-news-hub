@@ -3,43 +3,43 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2026-10-03 02:27:59 UTC
+// Last updated: 2026-10-04 02:57:54 UTC
 const newsData = [
     {
         id: 1,
-        title: "Hurricane modeling could improve with repurposed tech",
-        excerpt: "Hurricane modeling could improve with repurposed tech...",
+        title: "Combining drones and machine learning to demine Ukrainian battlefields",
+        excerpt: "Combining drones and machine learning to demine Ukrainian battlefields...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-10-03",
-        url: "https://spectrum.ieee.org/earthquake-sensor-hurricanes"
+        date: "2026-10-04",
+        url: "https://spectrum.ieee.org/clear-land-mines-drones-ai"
     },
     {
         id: 2,
-        title: "Your awesome selection of videos this week shows robots that drum, weld, farm, play soccer, help at home, operate heavy equipment, and more",
-        excerpt: "Your awesome selection of videos this week shows robots that drum, weld, farm, play soccer, help at home, operate heavy equipment, and more...",
+        title: "This startup is reinventing the process of demining",
+        excerpt: "This startup is reinventing the process of demining...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-10-03",
-        url: "https://spectrum.ieee.org/video-friday-unitree-superhuman"
+        date: "2026-10-04",
+        url: "https://spectrum.ieee.org/ukraine-drones"
     },
     {
         id: 3,
-        title: "Using its spiny feet, Ice Dart can latch on to glaciers and drifting icebergs, allowing for long-term monitoring",
-        excerpt: "Using its spiny feet, Ice Dart can latch on to glaciers and drifting icebergs, allowing for long-term monitoring...",
+        title: "Senseiver brings AI closer to the edge",
+        excerpt: "Senseiver brings AI closer to the edge...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-10-03",
-        url: "https://spectrum.ieee.org/arctic-iceberg-drones"
+        date: "2026-10-04",
+        url: "https://spectrum.ieee.org/orphan-wells"
     },
     {
         id: 4,
-        title: "Researchers in China test a perovskite receiver for in-flight power delivery",
-        excerpt: "Researchers in China test a perovskite receiver for in-flight power delivery...",
+        title: "Drones equipped with liquid neural networks edged out other AI systems when navigating unknown territory",
+        excerpt: "Drones equipped with liquid neural networks edged out other AI systems when navigating unknown territory...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-10-03",
-        url: "https://spectrum.ieee.org/drones-wireless-charging-lasers-flight"
+        date: "2026-10-04",
+        url: "https://spectrum.ieee.org/liquid-neural-networks"
     }
 ];
 
