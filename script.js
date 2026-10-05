@@ -3,7 +3,7 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2026-10-04 02:57:54 UTC
+// Last updated: 2026-10-05 02:31:24 UTC
 const newsData = [
     {
         id: 1,
@@ -11,7 +11,7 @@ const newsData = [
         excerpt: "Combining drones and machine learning to demine Ukrainian battlefields...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-10-04",
+        date: "2026-10-05",
         url: "https://spectrum.ieee.org/clear-land-mines-drones-ai"
     },
     {
@@ -20,7 +20,7 @@ const newsData = [
         excerpt: "This startup is reinventing the process of demining...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-10-04",
+        date: "2026-10-05",
         url: "https://spectrum.ieee.org/ukraine-drones"
     },
     {
@@ -29,7 +29,7 @@ const newsData = [
         excerpt: "Senseiver brings AI closer to the edge...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-10-04",
+        date: "2026-10-05",
         url: "https://spectrum.ieee.org/orphan-wells"
     },
     {
@@ -38,7 +38,7 @@ const newsData = [
         excerpt: "Drones equipped with liquid neural networks edged out other AI systems when navigating unknown territory...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-10-04",
+        date: "2026-10-05",
         url: "https://spectrum.ieee.org/liquid-neural-networks"
     }
 ];
