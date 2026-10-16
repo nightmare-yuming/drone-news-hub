@@ -3,43 +3,43 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2026-10-15 01:58:15 UTC
+// Last updated: 2026-10-16 01:48:29 UTC
 const newsData = [
     {
         id: 1,
-        title: "Hurricane modeling could improve with repurposed tech",
-        excerpt: "Hurricane modeling could improve with repurposed tech...",
+        title: "The Spatial Web standard connects devices, robots, and AI agents",
+        excerpt: "The Spatial Web standard connects devices, robots, and AI agents...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-10-15",
-        url: "https://spectrum.ieee.org/earthquake-sensor-hurricanes"
+        date: "2026-10-16",
+        url: "https://spectrum.ieee.org/spatial-web-standard"
     },
     {
         id: 2,
-        title: "Your awesome selection of videos this week shows robots that drum, weld, farm, play soccer, help at home, operate heavy equipment, and more",
-        excerpt: "Your awesome selection of videos this week shows robots that drum, weld, farm, play soccer, help at home, operate heavy equipment, and more...",
+        title: "Drones and situation rooms inform responses to floods and cyclones",
+        excerpt: "Drones and situation rooms inform responses to floods and cyclones...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-10-15",
-        url: "https://spectrum.ieee.org/video-friday-unitree-superhuman"
+        date: "2026-10-16",
+        url: "https://spectrum.ieee.org/disaster-response-tech-mozambique"
     },
     {
         id: 3,
-        title: "Using its spiny feet, Ice Dart can latch on to glaciers and drifting icebergs, allowing for long-term monitoring",
-        excerpt: "Using its spiny feet, Ice Dart can latch on to glaciers and drifting icebergs, allowing for long-term monitoring...",
+        title: "Telecom companies say 5G offers lower latency and better security",
+        excerpt: "Telecom companies say 5G offers lower latency and better security...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-10-15",
-        url: "https://spectrum.ieee.org/arctic-iceberg-drones"
+        date: "2026-10-16",
+        url: "https://spectrum.ieee.org/private-5g-vodafone"
     },
     {
         id: 4,
-        title: "Researchers in China test a perovskite receiver for in-flight power delivery",
-        excerpt: "Researchers in China test a perovskite receiver for in-flight power delivery...",
+        title: "In a series of experiments, researchers showed how to intercept transmissions and hoist control of popular Internet of Things devices",
+        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-10-15",
-        url: "https://spectrum.ieee.org/drones-wireless-charging-lasers-flight"
+        date: "2026-10-16",
+        url: "https://spectrum.ieee.org/iot-security-risks-drones-vibrators-iot-devices-kids-toys-vulnerable-to-hacking"
     }
 ];
 
