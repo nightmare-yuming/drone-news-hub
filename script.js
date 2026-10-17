@@ -3,43 +3,43 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2026-10-16 01:48:29 UTC
+// Last updated: 2026-10-17 01:43:06 UTC
 const newsData = [
     {
         id: 1,
-        title: "The Spatial Web standard connects devices, robots, and AI agents",
-        excerpt: "The Spatial Web standard connects devices, robots, and AI agents...",
+        title: "Hitchhiker latches on using trajectory tracking and suction cups",
+        excerpt: "Hitchhiker latches on using trajectory tracking and suction cups...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-10-16",
-        url: "https://spectrum.ieee.org/spatial-web-standard"
+        date: "2026-10-17",
+        url: "https://spectrum.ieee.org/drone-landing-2659913493"
     },
     {
         id: 2,
-        title: "Drones and situation rooms inform responses to floods and cyclones",
-        excerpt: "Drones and situation rooms inform responses to floods and cyclones...",
-        category: "technology",
-        source: "IEEE Spectrum",
-        date: "2026-10-16",
-        url: "https://spectrum.ieee.org/disaster-response-tech-mozambique"
-    },
-    {
-        id: 3,
-        title: "Telecom companies say 5G offers lower latency and better security",
-        excerpt: "Telecom companies say 5G offers lower latency and better security...",
-        category: "technology",
-        source: "IEEE Spectrum",
-        date: "2026-10-16",
-        url: "https://spectrum.ieee.org/private-5g-vodafone"
-    },
-    {
-        id: 4,
-        title: "In a series of experiments, researchers showed how to intercept transmissions and hoist control of popular Internet of Things devices",
+        title: "An electric hydrofoiling bicycle, consumer lidar, and an air conditioner that uses water instead of coolant caught my attention at CES 2020",
         excerpt: "Latest developments in drone technology from IEEE Spectrum.",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-10-16",
-        url: "https://spectrum.ieee.org/iot-security-risks-drones-vibrators-iot-devices-kids-toys-vulnerable-to-hacking"
+        date: "2026-10-17",
+        url: "https://spectrum.ieee.org/ces-2020-the-bestand-wildestgadgets-of-the-show"
+    },
+    {
+        id: 3,
+        title: "How UAVs benefit consumers through faster estimates, quicker response times and faster delivery of benefits",
+        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
+        category: "technology",
+        source: "IEEE Spectrum",
+        date: "2026-10-17",
+        url: "https://spectrum.ieee.org/changing-the-landscape-of-the-insurance-market"
+    },
+    {
+        id: 4,
+        title: "Learn about new drones, smart home gadgets, and mesh networks in this live broadcast from the CES show floor",
+        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
+        category: "technology",
+        source: "IEEE Spectrum",
+        date: "2026-10-17",
+        url: "https://spectrum.ieee.org/ces-2018-gadgets-and-technology-on-the-showfloor"
     }
 ];
 
