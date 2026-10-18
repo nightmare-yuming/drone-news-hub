@@ -3,7 +3,7 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2026-10-17 01:43:06 UTC
+// Last updated: 2026-10-18 01:39:30 UTC
 const newsData = [
     {
         id: 1,
@@ -11,7 +11,7 @@ const newsData = [
         excerpt: "Hitchhiker latches on using trajectory tracking and suction cups...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-10-17",
+        date: "2026-10-18",
         url: "https://spectrum.ieee.org/drone-landing-2659913493"
     },
     {
@@ -20,7 +20,7 @@ const newsData = [
         excerpt: "Latest developments in drone technology from IEEE Spectrum.",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-10-17",
+        date: "2026-10-18",
         url: "https://spectrum.ieee.org/ces-2020-the-bestand-wildestgadgets-of-the-show"
     },
     {
@@ -29,7 +29,7 @@ const newsData = [
         excerpt: "Latest developments in drone technology from IEEE Spectrum.",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-10-17",
+        date: "2026-10-18",
         url: "https://spectrum.ieee.org/changing-the-landscape-of-the-insurance-market"
     },
     {
@@ -38,7 +38,7 @@ const newsData = [
         excerpt: "Latest developments in drone technology from IEEE Spectrum.",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-10-17",
+        date: "2026-10-18",
         url: "https://spectrum.ieee.org/ces-2018-gadgets-and-technology-on-the-showfloor"
     }
 ];
