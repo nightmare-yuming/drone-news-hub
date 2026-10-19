@@ -3,43 +3,34 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2026-10-18 01:39:30 UTC
+// Last updated: 2026-10-19 01:57:05 UTC
 const newsData = [
     {
         id: 1,
-        title: "Hitchhiker latches on using trajectory tracking and suction cups",
-        excerpt: "Hitchhiker latches on using trajectory tracking and suction cups...",
+        title: "Simulations suggest that the approach can achieve early wildfire detection with 99 percent accuracy",
+        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-10-18",
-        url: "https://spectrum.ieee.org/drone-landing-2659913493"
+        date: "2026-10-19",
+        url: "https://spectrum.ieee.org/drones-sensors-wildfire-detection"
     },
     {
         id: 2,
-        title: "An electric hydrofoiling bicycle, consumer lidar, and an air conditioner that uses water instead of coolant caught my attention at CES 2020",
+        title: "Drones or airplanes might be able to quickly map seafloors and inspect shipwrecks using the photoacoustic method",
         excerpt: "Latest developments in drone technology from IEEE Spectrum.",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-10-18",
-        url: "https://spectrum.ieee.org/ces-2020-the-bestand-wildestgadgets-of-the-show"
+        date: "2026-10-19",
+        url: "https://spectrum.ieee.org/lightdriven-sonar-could-survey-the-oceans-from-the-air"
     },
     {
         id: 3,
-        title: "How UAVs benefit consumers through faster estimates, quicker response times and faster delivery of benefits",
+        title: "A new approach allows unmanned aerial vehicles to deliver power wirelessly to remote sensors",
         excerpt: "Latest developments in drone technology from IEEE Spectrum.",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-10-18",
-        url: "https://spectrum.ieee.org/changing-the-landscape-of-the-insurance-market"
-    },
-    {
-        id: 4,
-        title: "Learn about new drones, smart home gadgets, and mesh networks in this live broadcast from the CES show floor",
-        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
-        category: "technology",
-        source: "IEEE Spectrum",
-        date: "2026-10-18",
-        url: "https://spectrum.ieee.org/ces-2018-gadgets-and-technology-on-the-showfloor"
+        date: "2026-10-19",
+        url: "https://spectrum.ieee.org/uavs-prove-usefuldelivering-remote-power-charging-services"
     }
 ];
 
