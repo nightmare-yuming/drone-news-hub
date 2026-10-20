@@ -3,7 +3,7 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2026-10-19 01:57:05 UTC
+// Last updated: 2026-10-20 02:14:55 UTC
 const newsData = [
     {
         id: 1,
@@ -11,7 +11,7 @@ const newsData = [
         excerpt: "Latest developments in drone technology from IEEE Spectrum.",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-10-19",
+        date: "2026-10-20",
         url: "https://spectrum.ieee.org/drones-sensors-wildfire-detection"
     },
     {
@@ -20,7 +20,7 @@ const newsData = [
         excerpt: "Latest developments in drone technology from IEEE Spectrum.",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-10-19",
+        date: "2026-10-20",
         url: "https://spectrum.ieee.org/lightdriven-sonar-could-survey-the-oceans-from-the-air"
     },
     {
@@ -29,7 +29,7 @@ const newsData = [
         excerpt: "Latest developments in drone technology from IEEE Spectrum.",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-10-19",
+        date: "2026-10-20",
         url: "https://spectrum.ieee.org/uavs-prove-usefuldelivering-remote-power-charging-services"
     }
 ];
