@@ -3,34 +3,43 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2026-10-21 02:08:24 UTC
+// Last updated: 2026-10-22 02:02:43 UTC
 const newsData = [
     {
         id: 1,
-        title: "Simulations suggest that the approach can achieve early wildfire detection with 99 percent accuracy",
-        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
+        title: "Hurricane modeling could improve with repurposed tech",
+        excerpt: "Hurricane modeling could improve with repurposed tech...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-10-21",
-        url: "https://spectrum.ieee.org/drones-sensors-wildfire-detection"
+        date: "2026-10-22",
+        url: "https://spectrum.ieee.org/earthquake-sensor-hurricanes"
     },
     {
         id: 2,
-        title: "Drones or airplanes might be able to quickly map seafloors and inspect shipwrecks using the photoacoustic method",
-        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
+        title: "Your awesome selection of videos this week shows robots that drum, weld, farm, play soccer, help at home, operate heavy equipment, and more",
+        excerpt: "Your awesome selection of videos this week shows robots that drum, weld, farm, play soccer, help at home, operate heavy equipment, and more...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-10-21",
-        url: "https://spectrum.ieee.org/lightdriven-sonar-could-survey-the-oceans-from-the-air"
+        date: "2026-10-22",
+        url: "https://spectrum.ieee.org/video-friday-unitree-superhuman"
     },
     {
         id: 3,
-        title: "A new approach allows unmanned aerial vehicles to deliver power wirelessly to remote sensors",
-        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
+        title: "Using its spiny feet, Ice Dart can latch on to glaciers and drifting icebergs, allowing for long-term monitoring",
+        excerpt: "Using its spiny feet, Ice Dart can latch on to glaciers and drifting icebergs, allowing for long-term monitoring...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-10-21",
-        url: "https://spectrum.ieee.org/uavs-prove-usefuldelivering-remote-power-charging-services"
+        date: "2026-10-22",
+        url: "https://spectrum.ieee.org/arctic-iceberg-drones"
+    },
+    {
+        id: 4,
+        title: "Researchers in China test a perovskite receiver for in-flight power delivery",
+        excerpt: "Researchers in China test a perovskite receiver for in-flight power delivery...",
+        category: "technology",
+        source: "IEEE Spectrum",
+        date: "2026-10-22",
+        url: "https://spectrum.ieee.org/drones-wireless-charging-lasers-flight"
     }
 ];
 
