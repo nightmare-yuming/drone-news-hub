@@ -3,43 +3,43 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2026-10-26 01:54:20 UTC
+// Last updated: 2026-10-28 02:41:16 UTC
 const newsData = [
     {
         id: 1,
-        title: "Hurricane modeling could improve with repurposed tech",
-        excerpt: "Hurricane modeling could improve with repurposed tech...",
+        title: "Taiwan emerges as alternative to Chinese drone supply chain",
+        excerpt: "Taiwan emerges as alternative to Chinese drone supply chain...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-10-26",
-        url: "https://spectrum.ieee.org/earthquake-sensor-hurricanes"
+        date: "2026-10-28",
+        url: "https://spectrum.ieee.org/taiwan-drone-supply-chain"
     },
     {
         id: 2,
-        title: "Your awesome selection of videos this week shows robots that drum, weld, farm, play soccer, help at home, operate heavy equipment, and more",
-        excerpt: "Your awesome selection of videos this week shows robots that drum, weld, farm, play soccer, help at home, operate heavy equipment, and more...",
+        title: "Drones, autonomy, software, and communications lead the roster",
+        excerpt: "Drones, autonomy, software, and communications lead the roster...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-10-26",
-        url: "https://spectrum.ieee.org/video-friday-unitree-superhuman"
+        date: "2026-10-28",
+        url: "https://spectrum.ieee.org/ukraine-weapons"
     },
     {
         id: 3,
-        title: "Using its spiny feet, Ice Dart can latch on to glaciers and drifting icebergs, allowing for long-term monitoring",
-        excerpt: "Using its spiny feet, Ice Dart can latch on to glaciers and drifting icebergs, allowing for long-term monitoring...",
+        title: "Killer drones spot landmarks as they fly to their targets",
+        excerpt: "Killer drones spot landmarks as they fly to their targets...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-10-26",
-        url: "https://spectrum.ieee.org/arctic-iceberg-drones"
+        date: "2026-10-28",
+        url: "https://spectrum.ieee.org/ukraine-killer-drones"
     },
     {
         id: 4,
-        title: "Researchers in China test a perovskite receiver for in-flight power delivery",
-        excerpt: "Researchers in China test a perovskite receiver for in-flight power delivery...",
+        title: "Airships are becoming a vital part of the country’s anti-drone efforts",
+        excerpt: "Airships are becoming a vital part of the country’s anti-drone efforts...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-10-26",
-        url: "https://spectrum.ieee.org/drones-wireless-charging-lasers-flight"
+        date: "2026-10-28",
+        url: "https://spectrum.ieee.org/airships-drones-ukraine"
     }
 ];
 
