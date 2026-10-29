@@ -3,43 +3,43 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2026-10-28 02:41:16 UTC
+// Last updated: 2026-10-29 03:00:08 UTC
 const newsData = [
     {
         id: 1,
-        title: "Taiwan emerges as alternative to Chinese drone supply chain",
-        excerpt: "Taiwan emerges as alternative to Chinese drone supply chain...",
+        title: "Mitsubishi Electric has developed an algorithm that measures inconsistencies in multiple sensors to thwart malicious manipulation",
+        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-10-28",
-        url: "https://spectrum.ieee.org/taiwan-drone-supply-chain"
+        date: "2026-10-29",
+        url: "https://spectrum.ieee.org/new-security-technology-detects-attacks-on-sensors-controlling-numerous-applications-including-drones-cars-and-robots"
     },
     {
         id: 2,
-        title: "Drones, autonomy, software, and communications lead the roster",
-        excerpt: "Drones, autonomy, software, and communications lead the roster...",
+        title: "And they have a new piece of hardware—the Jetson TX2—that they hope everyone will use for this edge processing",
+        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-10-28",
-        url: "https://spectrum.ieee.org/ukraine-weapons"
+        date: "2026-10-29",
+        url: "https://spectrum.ieee.org/nvidia-wants-ai-to-get-out-of-the-cloud-into-a-camera-drone-or-other-gadget-near-you"
     },
     {
         id: 3,
-        title: "Killer drones spot landmarks as they fly to their targets",
-        excerpt: "Killer drones spot landmarks as they fly to their targets...",
+        title: "DARPA shows off all of its cool new toys",
+        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-10-28",
-        url: "https://spectrum.ieee.org/ukraine-killer-drones"
+        date: "2026-10-29",
+        url: "https://spectrum.ieee.org/advanced-research-projects-from-darpas-pentagon-demo-day"
     },
     {
         id: 4,
-        title: "Airships are becoming a vital part of the country’s anti-drone efforts",
-        excerpt: "Airships are becoming a vital part of the country’s anti-drone efforts...",
+        title: "China puts export license restrictions on sales of its supercomputer and drone technologies overseas",
+        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-10-28",
-        url: "https://spectrum.ieee.org/airships-drones-ukraine"
+        date: "2026-10-29",
+        url: "https://spectrum.ieee.org/china-tightens-control-on-exports-of-supercomputers-drones"
     }
 ];
 
