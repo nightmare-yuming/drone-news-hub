@@ -3,43 +3,43 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2026-11-02 02:53:15 UTC
+// Last updated: 2026-11-03 04:09:53 UTC
 const newsData = [
     {
         id: 1,
-        title: "Hurricane modeling could improve with repurposed tech",
-        excerpt: "Hurricane modeling could improve with repurposed tech...",
+        title: "Hitchhiker latches on using trajectory tracking and suction cups",
+        excerpt: "Hitchhiker latches on using trajectory tracking and suction cups...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-11-02",
-        url: "https://spectrum.ieee.org/earthquake-sensor-hurricanes"
+        date: "2026-11-03",
+        url: "https://spectrum.ieee.org/drone-landing-2659913493"
     },
     {
         id: 2,
-        title: "Your awesome selection of videos this week shows robots that drum, weld, farm, play soccer, help at home, operate heavy equipment, and more",
-        excerpt: "Your awesome selection of videos this week shows robots that drum, weld, farm, play soccer, help at home, operate heavy equipment, and more...",
+        title: "An electric hydrofoiling bicycle, consumer lidar, and an air conditioner that uses water instead of coolant caught my attention at CES 2020",
+        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-11-02",
-        url: "https://spectrum.ieee.org/video-friday-unitree-superhuman"
+        date: "2026-11-03",
+        url: "https://spectrum.ieee.org/ces-2020-the-bestand-wildestgadgets-of-the-show"
     },
     {
         id: 3,
-        title: "Using its spiny feet, Ice Dart can latch on to glaciers and drifting icebergs, allowing for long-term monitoring",
-        excerpt: "Using its spiny feet, Ice Dart can latch on to glaciers and drifting icebergs, allowing for long-term monitoring...",
+        title: "How UAVs benefit consumers through faster estimates, quicker response times and faster delivery of benefits",
+        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-11-02",
-        url: "https://spectrum.ieee.org/arctic-iceberg-drones"
+        date: "2026-11-03",
+        url: "https://spectrum.ieee.org/changing-the-landscape-of-the-insurance-market"
     },
     {
         id: 4,
-        title: "Researchers in China test a perovskite receiver for in-flight power delivery",
-        excerpt: "Researchers in China test a perovskite receiver for in-flight power delivery...",
+        title: "Learn about new drones, smart home gadgets, and mesh networks in this live broadcast from the CES show floor",
+        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-11-02",
-        url: "https://spectrum.ieee.org/drones-wireless-charging-lasers-flight"
+        date: "2026-11-03",
+        url: "https://spectrum.ieee.org/ces-2018-gadgets-and-technology-on-the-showfloor"
     }
 ];
 
