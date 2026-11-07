@@ -3,43 +3,43 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2026-11-06 03:48:11 UTC
+// Last updated: 2026-11-07 03:21:22 UTC
 const newsData = [
     {
         id: 1,
+        title: "Flying delivery robots prompt concern about noise, safety, and more",
+        excerpt: "Flying delivery robots prompt concern about noise, safety, and more...",
+        category: "technology",
+        source: "IEEE Spectrum",
+        date: "2026-11-07",
+        url: "https://spectrum.ieee.org/drone-delivery-noise"
+    },
+    {
+        id: 2,
         title: "Your weekly selection of awesome robot videos",
         excerpt: "Your weekly selection of awesome robot videos...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-11-06",
+        date: "2026-11-07",
         url: "https://spectrum.ieee.org/video-friday-disaster-response-robots"
     },
     {
-        id: 2,
+        id: 3,
         title: "Hurricane modeling could improve with repurposed tech",
         excerpt: "Hurricane modeling could improve with repurposed tech...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-11-06",
+        date: "2026-11-07",
         url: "https://spectrum.ieee.org/earthquake-sensor-hurricanes"
     },
     {
-        id: 3,
+        id: 4,
         title: "Your awesome selection of videos this week shows robots that drum, weld, farm, play soccer, help at home, operate heavy equipment, and more",
         excerpt: "Your awesome selection of videos this week shows robots that drum, weld, farm, play soccer, help at home, operate heavy equipment, and more...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-11-06",
+        date: "2026-11-07",
         url: "https://spectrum.ieee.org/video-friday-unitree-superhuman"
-    },
-    {
-        id: 4,
-        title: "Using its spiny feet, Ice Dart can latch on to glaciers and drifting icebergs, allowing for long-term monitoring",
-        excerpt: "Using its spiny feet, Ice Dart can latch on to glaciers and drifting icebergs, allowing for long-term monitoring...",
-        category: "technology",
-        source: "IEEE Spectrum",
-        date: "2026-11-06",
-        url: "https://spectrum.ieee.org/arctic-iceberg-drones"
     }
 ];
 
