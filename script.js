@@ -3,43 +3,43 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2026-11-07 03:21:22 UTC
+// Last updated: 2026-11-08 02:50:41 UTC
 const newsData = [
     {
         id: 1,
-        title: "Flying delivery robots prompt concern about noise, safety, and more",
-        excerpt: "Flying delivery robots prompt concern about noise, safety, and more...",
+        title: "Combining drones and machine learning to demine Ukrainian battlefields",
+        excerpt: "Combining drones and machine learning to demine Ukrainian battlefields...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-11-07",
-        url: "https://spectrum.ieee.org/drone-delivery-noise"
+        date: "2026-11-08",
+        url: "https://spectrum.ieee.org/clear-land-mines-drones-ai"
     },
     {
         id: 2,
-        title: "Your weekly selection of awesome robot videos",
-        excerpt: "Your weekly selection of awesome robot videos...",
+        title: "This startup is reinventing the process of demining",
+        excerpt: "This startup is reinventing the process of demining...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-11-07",
-        url: "https://spectrum.ieee.org/video-friday-disaster-response-robots"
+        date: "2026-11-08",
+        url: "https://spectrum.ieee.org/ukraine-drones"
     },
     {
         id: 3,
-        title: "Hurricane modeling could improve with repurposed tech",
-        excerpt: "Hurricane modeling could improve with repurposed tech...",
+        title: "Senseiver brings AI closer to the edge",
+        excerpt: "Senseiver brings AI closer to the edge...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-11-07",
-        url: "https://spectrum.ieee.org/earthquake-sensor-hurricanes"
+        date: "2026-11-08",
+        url: "https://spectrum.ieee.org/orphan-wells"
     },
     {
         id: 4,
-        title: "Your awesome selection of videos this week shows robots that drum, weld, farm, play soccer, help at home, operate heavy equipment, and more",
-        excerpt: "Your awesome selection of videos this week shows robots that drum, weld, farm, play soccer, help at home, operate heavy equipment, and more...",
+        title: "Drones equipped with liquid neural networks edged out other AI systems when navigating unknown territory",
+        excerpt: "Drones equipped with liquid neural networks edged out other AI systems when navigating unknown territory...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-11-07",
-        url: "https://spectrum.ieee.org/video-friday-unitree-superhuman"
+        date: "2026-11-08",
+        url: "https://spectrum.ieee.org/liquid-neural-networks"
     }
 ];
 
