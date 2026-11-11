@@ -3,43 +3,16 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2026-11-10 04:52:02 UTC
+// Last updated: 2026-11-11 03:17:11 UTC
 const newsData = [
     {
         id: 1,
-        title: "Flying delivery robots prompt concern about noise, safety, and more",
-        excerpt: "Flying delivery robots prompt concern about noise, safety, and more...",
+        title: "This budget system probes beneath the ice to discover its secrets",
+        excerpt: "This budget system probes beneath the ice to discover its secrets...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-11-10",
-        url: "https://spectrum.ieee.org/drone-delivery-noise"
-    },
-    {
-        id: 2,
-        title: "Your weekly selection of awesome robot videos",
-        excerpt: "Your weekly selection of awesome robot videos...",
-        category: "technology",
-        source: "IEEE Spectrum",
-        date: "2026-11-10",
-        url: "https://spectrum.ieee.org/video-friday-disaster-response-robots"
-    },
-    {
-        id: 3,
-        title: "Hurricane modeling could improve with repurposed tech",
-        excerpt: "Hurricane modeling could improve with repurposed tech...",
-        category: "technology",
-        source: "IEEE Spectrum",
-        date: "2026-11-10",
-        url: "https://spectrum.ieee.org/earthquake-sensor-hurricanes"
-    },
-    {
-        id: 4,
-        title: "Your awesome selection of videos this week shows robots that drum, weld, farm, play soccer, help at home, operate heavy equipment, and more",
-        excerpt: "Your awesome selection of videos this week shows robots that drum, weld, farm, play soccer, help at home, operate heavy equipment, and more...",
-        category: "technology",
-        source: "IEEE Spectrum",
-        date: "2026-11-10",
-        url: "https://spectrum.ieee.org/video-friday-unitree-superhuman"
+        date: "2026-11-11",
+        url: "https://spectrum.ieee.org/drone-ice-radar"
     }
 ];
 
