@@ -3,7 +3,7 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2026-11-11 03:17:11 UTC
+// Last updated: 2026-11-12 04:29:05 UTC
 const newsData = [
     {
         id: 1,
@@ -11,7 +11,7 @@ const newsData = [
         excerpt: "This budget system probes beneath the ice to discover its secrets...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-11-11",
+        date: "2026-11-12",
         url: "https://spectrum.ieee.org/drone-ice-radar"
     }
 ];
