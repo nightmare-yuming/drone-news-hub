@@ -3,16 +3,43 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2026-11-12 04:29:05 UTC
+// Last updated: 2026-11-13 03:43:24 UTC
 const newsData = [
     {
         id: 1,
-        title: "This budget system probes beneath the ice to discover its secrets",
-        excerpt: "This budget system probes beneath the ice to discover its secrets...",
+        title: "The Spatial Web standard connects devices, robots, and AI agents",
+        excerpt: "The Spatial Web standard connects devices, robots, and AI agents...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-11-12",
-        url: "https://spectrum.ieee.org/drone-ice-radar"
+        date: "2026-11-13",
+        url: "https://spectrum.ieee.org/spatial-web-standard"
+    },
+    {
+        id: 2,
+        title: "Drones and situation rooms inform responses to floods and cyclones",
+        excerpt: "Drones and situation rooms inform responses to floods and cyclones...",
+        category: "technology",
+        source: "IEEE Spectrum",
+        date: "2026-11-13",
+        url: "https://spectrum.ieee.org/disaster-response-tech-mozambique"
+    },
+    {
+        id: 3,
+        title: "Telecom companies say 5G offers lower latency and better security",
+        excerpt: "Telecom companies say 5G offers lower latency and better security...",
+        category: "technology",
+        source: "IEEE Spectrum",
+        date: "2026-11-13",
+        url: "https://spectrum.ieee.org/private-5g-vodafone"
+    },
+    {
+        id: 4,
+        title: "In a series of experiments, researchers showed how to intercept transmissions and hoist control of popular Internet of Things devices",
+        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
+        category: "technology",
+        source: "IEEE Spectrum",
+        date: "2026-11-13",
+        url: "https://spectrum.ieee.org/iot-security-risks-drones-vibrators-iot-devices-kids-toys-vulnerable-to-hacking"
     }
 ];
 
