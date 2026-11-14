@@ -3,7 +3,7 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2026-11-13 03:43:24 UTC
+// Last updated: 2026-11-14 03:42:16 UTC
 const newsData = [
     {
         id: 1,
@@ -11,7 +11,7 @@ const newsData = [
         excerpt: "The Spatial Web standard connects devices, robots, and AI agents...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-11-13",
+        date: "2026-11-14",
         url: "https://spectrum.ieee.org/spatial-web-standard"
     },
     {
@@ -20,7 +20,7 @@ const newsData = [
         excerpt: "Drones and situation rooms inform responses to floods and cyclones...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-11-13",
+        date: "2026-11-14",
         url: "https://spectrum.ieee.org/disaster-response-tech-mozambique"
     },
     {
@@ -29,7 +29,7 @@ const newsData = [
         excerpt: "Telecom companies say 5G offers lower latency and better security...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-11-13",
+        date: "2026-11-14",
         url: "https://spectrum.ieee.org/private-5g-vodafone"
     },
     {
@@ -38,7 +38,7 @@ const newsData = [
         excerpt: "Latest developments in drone technology from IEEE Spectrum.",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-11-13",
+        date: "2026-11-14",
         url: "https://spectrum.ieee.org/iot-security-risks-drones-vibrators-iot-devices-kids-toys-vulnerable-to-hacking"
     }
 ];
