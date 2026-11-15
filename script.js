@@ -3,43 +3,43 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2026-11-14 03:42:16 UTC
+// Last updated: 2026-11-15 03:18:55 UTC
 const newsData = [
     {
         id: 1,
-        title: "The Spatial Web standard connects devices, robots, and AI agents",
-        excerpt: "The Spatial Web standard connects devices, robots, and AI agents...",
+        title: "Combining drones and machine learning to demine Ukrainian battlefields",
+        excerpt: "Combining drones and machine learning to demine Ukrainian battlefields...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-11-14",
-        url: "https://spectrum.ieee.org/spatial-web-standard"
+        date: "2026-11-15",
+        url: "https://spectrum.ieee.org/clear-land-mines-drones-ai"
     },
     {
         id: 2,
-        title: "Drones and situation rooms inform responses to floods and cyclones",
-        excerpt: "Drones and situation rooms inform responses to floods and cyclones...",
+        title: "This startup is reinventing the process of demining",
+        excerpt: "This startup is reinventing the process of demining...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-11-14",
-        url: "https://spectrum.ieee.org/disaster-response-tech-mozambique"
+        date: "2026-11-15",
+        url: "https://spectrum.ieee.org/ukraine-drones"
     },
     {
         id: 3,
-        title: "Telecom companies say 5G offers lower latency and better security",
-        excerpt: "Telecom companies say 5G offers lower latency and better security...",
+        title: "Senseiver brings AI closer to the edge",
+        excerpt: "Senseiver brings AI closer to the edge...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-11-14",
-        url: "https://spectrum.ieee.org/private-5g-vodafone"
+        date: "2026-11-15",
+        url: "https://spectrum.ieee.org/orphan-wells"
     },
     {
         id: 4,
-        title: "In a series of experiments, researchers showed how to intercept transmissions and hoist control of popular Internet of Things devices",
-        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
+        title: "Drones equipped with liquid neural networks edged out other AI systems when navigating unknown territory",
+        excerpt: "Drones equipped with liquid neural networks edged out other AI systems when navigating unknown territory...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-11-14",
-        url: "https://spectrum.ieee.org/iot-security-risks-drones-vibrators-iot-devices-kids-toys-vulnerable-to-hacking"
+        date: "2026-11-15",
+        url: "https://spectrum.ieee.org/liquid-neural-networks"
     }
 ];
 
