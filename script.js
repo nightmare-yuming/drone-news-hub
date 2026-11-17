@@ -3,43 +3,34 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2026-11-16 03:20:46 UTC
+// Last updated: 2026-11-17 05:20:32 UTC
 const newsData = [
     {
         id: 1,
-        title: "Flying delivery robots prompt concern about noise, safety, and more",
-        excerpt: "Flying delivery robots prompt concern about noise, safety, and more...",
+        title: "Simulations suggest that the approach can achieve early wildfire detection with 99 percent accuracy",
+        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-11-16",
-        url: "https://spectrum.ieee.org/drone-delivery-noise"
+        date: "2026-11-17",
+        url: "https://spectrum.ieee.org/drones-sensors-wildfire-detection"
     },
     {
         id: 2,
-        title: "Your weekly selection of awesome robot videos",
-        excerpt: "Your weekly selection of awesome robot videos...",
+        title: "Drones or airplanes might be able to quickly map seafloors and inspect shipwrecks using the photoacoustic method",
+        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-11-16",
-        url: "https://spectrum.ieee.org/video-friday-disaster-response-robots"
+        date: "2026-11-17",
+        url: "https://spectrum.ieee.org/lightdriven-sonar-could-survey-the-oceans-from-the-air"
     },
     {
         id: 3,
-        title: "Hurricane modeling could improve with repurposed tech",
-        excerpt: "Hurricane modeling could improve with repurposed tech...",
+        title: "A new approach allows unmanned aerial vehicles to deliver power wirelessly to remote sensors",
+        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-11-16",
-        url: "https://spectrum.ieee.org/earthquake-sensor-hurricanes"
-    },
-    {
-        id: 4,
-        title: "Your awesome selection of videos this week shows robots that drum, weld, farm, play soccer, help at home, operate heavy equipment, and more",
-        excerpt: "Your awesome selection of videos this week shows robots that drum, weld, farm, play soccer, help at home, operate heavy equipment, and more...",
-        category: "technology",
-        source: "IEEE Spectrum",
-        date: "2026-11-16",
-        url: "https://spectrum.ieee.org/video-friday-unitree-superhuman"
+        date: "2026-11-17",
+        url: "https://spectrum.ieee.org/uavs-prove-usefuldelivering-remote-power-charging-services"
     }
 ];
 
