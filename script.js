@@ -3,7 +3,7 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2026-11-21 04:23:59 UTC
+// Last updated: 2026-11-22 03:38:36 UTC
 const newsData = [
     {
         id: 1,
@@ -11,7 +11,7 @@ const newsData = [
         excerpt: "Taiwan emerges as alternative to Chinese drone supply chain...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-11-21",
+        date: "2026-11-22",
         url: "https://spectrum.ieee.org/taiwan-drone-supply-chain"
     },
     {
@@ -20,7 +20,7 @@ const newsData = [
         excerpt: "Drones, autonomy, software, and communications lead the roster...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-11-21",
+        date: "2026-11-22",
         url: "https://spectrum.ieee.org/ukraine-weapons"
     },
     {
@@ -29,7 +29,7 @@ const newsData = [
         excerpt: "Killer drones spot landmarks as they fly to their targets...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-11-21",
+        date: "2026-11-22",
         url: "https://spectrum.ieee.org/ukraine-killer-drones"
     },
     {
@@ -38,7 +38,7 @@ const newsData = [
         excerpt: "Airships are becoming a vital part of the country’s anti-drone efforts...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-11-21",
+        date: "2026-11-22",
         url: "https://spectrum.ieee.org/airships-drones-ukraine"
     }
 ];
