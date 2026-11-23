@@ -3,43 +3,43 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2026-11-22 03:38:36 UTC
+// Last updated: 2026-11-23 04:11:58 UTC
 const newsData = [
     {
         id: 1,
-        title: "Taiwan emerges as alternative to Chinese drone supply chain",
-        excerpt: "Taiwan emerges as alternative to Chinese drone supply chain...",
+        title: "Flying delivery robots prompt concern about noise, safety, and more",
+        excerpt: "Flying delivery robots prompt concern about noise, safety, and more...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-11-22",
-        url: "https://spectrum.ieee.org/taiwan-drone-supply-chain"
+        date: "2026-11-23",
+        url: "https://spectrum.ieee.org/drone-delivery-noise"
     },
     {
         id: 2,
-        title: "Drones, autonomy, software, and communications lead the roster",
-        excerpt: "Drones, autonomy, software, and communications lead the roster...",
+        title: "Your weekly selection of awesome robot videos",
+        excerpt: "Your weekly selection of awesome robot videos...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-11-22",
-        url: "https://spectrum.ieee.org/ukraine-weapons"
+        date: "2026-11-23",
+        url: "https://spectrum.ieee.org/video-friday-disaster-response-robots"
     },
     {
         id: 3,
-        title: "Killer drones spot landmarks as they fly to their targets",
-        excerpt: "Killer drones spot landmarks as they fly to their targets...",
+        title: "Hurricane modeling could improve with repurposed tech",
+        excerpt: "Hurricane modeling could improve with repurposed tech...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-11-22",
-        url: "https://spectrum.ieee.org/ukraine-killer-drones"
+        date: "2026-11-23",
+        url: "https://spectrum.ieee.org/earthquake-sensor-hurricanes"
     },
     {
         id: 4,
-        title: "Airships are becoming a vital part of the country’s anti-drone efforts",
-        excerpt: "Airships are becoming a vital part of the country’s anti-drone efforts...",
+        title: "Your awesome selection of videos this week shows robots that drum, weld, farm, play soccer, help at home, operate heavy equipment, and more",
+        excerpt: "Your awesome selection of videos this week shows robots that drum, weld, farm, play soccer, help at home, operate heavy equipment, and more...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-11-22",
-        url: "https://spectrum.ieee.org/airships-drones-ukraine"
+        date: "2026-11-23",
+        url: "https://spectrum.ieee.org/video-friday-unitree-superhuman"
     }
 ];
 
