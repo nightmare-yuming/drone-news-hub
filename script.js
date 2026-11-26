@@ -3,7 +3,7 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2026-11-25 05:45:49 UTC
+// Last updated: 2026-11-26 05:36:00 UTC
 const newsData = [
     {
         id: 1,
@@ -11,7 +11,7 @@ const newsData = [
         excerpt: "Flying delivery robots prompt concern about noise, safety, and more...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-11-25",
+        date: "2026-11-26",
         url: "https://spectrum.ieee.org/drone-delivery-noise"
     },
     {
@@ -20,7 +20,7 @@ const newsData = [
         excerpt: "Your weekly selection of awesome robot videos...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-11-25",
+        date: "2026-11-26",
         url: "https://spectrum.ieee.org/video-friday-disaster-response-robots"
     },
     {
@@ -29,7 +29,7 @@ const newsData = [
         excerpt: "Hurricane modeling could improve with repurposed tech...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-11-25",
+        date: "2026-11-26",
         url: "https://spectrum.ieee.org/earthquake-sensor-hurricanes"
     },
     {
@@ -38,7 +38,7 @@ const newsData = [
         excerpt: "Your awesome selection of videos this week shows robots that drum, weld, farm, play soccer, help at home, operate heavy equipment, and more...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-11-25",
+        date: "2026-11-26",
         url: "https://spectrum.ieee.org/video-friday-unitree-superhuman"
     }
 ];
