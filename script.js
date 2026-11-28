@@ -3,43 +3,43 @@
 // ==========================================
 
 // Real News Data with Verified Sources
-// Last updated: 2026-11-27 05:30:14 UTC
+// Last updated: 2026-11-28 05:06:03 UTC
 const newsData = [
     {
         id: 1,
-        title: "Taiwan doubles down on its Silicon Shield strategy while the U.S. promises a storm of drones",
-        excerpt: "Taiwan doubles down on its Silicon Shield strategy while the U.S. promises a storm of drones...",
+        title: "Flying delivery robots prompt concern about noise, safety, and more",
+        excerpt: "Flying delivery robots prompt concern about noise, safety, and more...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-11-27",
-        url: "https://spectrum.ieee.org/taiwan-silicon-shield"
+        date: "2026-11-28",
+        url: "https://spectrum.ieee.org/drone-delivery-noise"
     },
     {
         id: 2,
-        title: "Intel and academic groups are designing specialized hardware to speed path planning and other aspects of robot coordination",
-        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
+        title: "Your weekly selection of awesome robot videos",
+        excerpt: "Your weekly selection of awesome robot videos...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-11-27",
-        url: "https://spectrum.ieee.org/3-new-chips-to-help-robots-find-their-way-around"
+        date: "2026-11-28",
+        url: "https://spectrum.ieee.org/video-friday-disaster-response-robots"
     },
     {
         id: 3,
-        title: "A research team tries to turn bees into living drones by gluing wireless sensor platforms to their backs",
-        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
+        title: "Hurricane modeling could improve with repurposed tech",
+        excerpt: "Hurricane modeling could improve with repurposed tech...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-11-27",
-        url: "https://spectrum.ieee.org/bee-drones"
+        date: "2026-11-28",
+        url: "https://spectrum.ieee.org/earthquake-sensor-hurricanes"
     },
     {
         id: 4,
-        title: "Smaller than a dime and with no moving parts, MIT's lidar-on-a-chip is exactly what cars and robots need",
-        excerpt: "Latest developments in drone technology from IEEE Spectrum.",
+        title: "Your awesome selection of videos this week shows robots that drum, weld, farm, play soccer, help at home, operate heavy equipment, and more",
+        excerpt: "Your awesome selection of videos this week shows robots that drum, weld, farm, play soccer, help at home, operate heavy equipment, and more...",
         category: "technology",
         source: "IEEE Spectrum",
-        date: "2026-11-27",
-        url: "https://spectrum.ieee.org/mit-lidar-on-a-chip"
+        date: "2026-11-28",
+        url: "https://spectrum.ieee.org/video-friday-unitree-superhuman"
     }
 ];
 
